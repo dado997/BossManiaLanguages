@@ -4,7 +4,6 @@ GUI_NEXT: Avanti
 GUI_NEXT_LORE: Vai alla prossima pagina.
 GUI_SEARCH: Cerca
 GUI_SEARCH_LORE: Clicca per cercare
-GUI_CLICK_TO_CHOOSE: Clicca per scegliere
 GUI_CREATE: Crea
 GUI_CREATE_LORE: Crea un nuovo boss.
 GUI_RIGHT_CLICK_TOTYPE_HEALTH: Click destro per scrivere in chat la vita.
