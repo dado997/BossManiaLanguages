@@ -1,0 +1,59 @@
+GUI_PREVIOUS: Previous
+GUI_PREVIOUS_LORE: Go to previous page.
+GUI_NEXT: Next
+GUI_NEXT_LORE: Go to next page.
+GUI_SEARCH: Search
+GUI_SEARCH_LORE: Click to search
+GUI_CLICK_TO_CHOOSE: Click to choose
+GUI_CREATE: Create
+GUI_CREATE_LORE: Create a new boss.
+GUI_RIGHT_CLICK_TOTYPE_HEALTH: §aRight click to type in chat health
+GUI_EQUIPMENT: Equipment
+GUI_EQUIPMENT_LORE: Manage the equipment of the boss.
+GUI_DROPS: Drops 
+GUI_DROPS_LORE: Manage the drops of the boss.
+GUI_SKILL: Skills
+GUI_SKILL_LORE: Manage the skills of the boss.
+GUI_CHANCES: Chances
+GUI_CHANCES_LORE: §aThe chances for the boss to execute one of his skills
+GUI_NO_ARMOR: NO ARMOR
+GUI_NO_MAIN_ITEM: NO ITEM IN MAIN HAND
+GUI_NO_OFF_ITEM: NO ITEM IN OFF HAND
+GUI_BACK: Back
+GUI_CLICK_TO_CHANGE: Click to change.
+GUI_CLICK_TO_CHOOSE: Click to choose type.
+GUI_SET_NOTHING: SET NOTHING
+GUI_ADD: Add
+GUI_DROP_ADD_LORE: Add a drop.
+GUI_SKILL_ADD_LORE: Add a skill.
+GUI_CLICK_TO_ADD: §aLeft click to add.
+GUI_CLICK_TO_REMOVE: §cRight click to remove.
+GUI_CLICK_TO_ADD_PERCENTAGE: §aLeft click to add percentage.
+GUI_CLICK_TO_REMOVE_PERCENTAGE: §cRight click to remove percentage.
+GUI_LEFT_CLICK_TOTYPE_RADIUS: §aLeft click to type in chat radius.
+GUI_RIGHT_CLICK_TOTYPE_TARGET: §aRight click to type in chat target.
+GUI_Press_Q_TO_REMOVE: §cPress Q to remove drop.
+GUI_Press_Q_TO_REMOVESKILL: §cPress Q to remove skill.
+GUI_PRESSQ_TO_TYPE: §ePress Q to type in chat.
+GUI_LEFT_TO_TYPE: §eLeft click to type in chat the chance.
+GUI_RIGHT_TO_TYPE_QUANTITY: §eRight click to type in chat the quantity.
+CONSOLE_CANNOT_USE: §cConsole cannot use this command!
+NO_PERMISSION: §cYou don't have permission to perform this action!
+COMMAND_INVALID_ARGS: §cInvalid Arguments!
+COMMAND_NOTFOUND: §cCommand not found!
+COMMAND_HINT_HELP: §7Type in chat /bossmania to see all commands.
+BOSS_ALREADY_EXISTS: §cA boss with this name already exists!
+BOSS_DOESNT_EXISTS: §cA boss with this name doesn't exists!
+BOSS_SKILL_DOESNTEXISTS: §cA skill with this name doesn't exists!
+BOSS_ADDED_SKILL: §aSuccessfully added skill to the boss %boss% with target %target%
+TYPE_DOESNT_EXISTS: §cThis type of mob doesn't exists!
+CHANCE_0: §cThe chance cannot be 0!
+CHANCE_100: §cThe chance cannot be more than 100%!
+CREATED_BOSS: §aSuccessfully created the boss §e%boss%
+BOSS_SPAWNED: §aSuccessfully spawned the boss §e%boss%
+KILLED_ALL_BOSSES: §aSuccessfully killed all the bosses.
+INVALID_NUMBER: §cInvalid number!
+INVALID_TYPE: §cInvalid type!
+INVALID_TARGET: §cInvalid target!
+SETTED_HEALTH: §aSuccessfully imposted health %health% to the boss %boss%
+REMOVED_BOSS: §aSuccessfully removed the boss §e%boss%

@@ -1,0 +1,59 @@
+GUI_PREVIOUS: Indietro
+GUI_PREVIOUS_LORE: Vai alla pagina precedente.
+GUI_NEXT: Avanti
+GUI_NEXT_LORE: Vai alla prossima pagina.
+GUI_SEARCH: Cerca
+GUI_SEARCH_LORE: Clicca per cercare
+GUI_CLICK_TO_CHOOSE: Clicca per scegliere
+GUI_CREATE: Crea
+GUI_CREATE_LORE: Crea un nuovo boss.
+GUI_RIGHT_CLICK_TOTYPE_HEALTH: Click destro per scrivere in chat la vita.
+GUI_EQUIPMENT: Equipaggiamento
+GUI_EQUIPMENT_LORE: Gestisci l'equipaggiamento del boss.
+GUI_DROPS: Drops
+GUI_DROPS_LORE: Gestisci i drops del boss.
+GUI_SKILL: Abilita'
+GUI_SKILL_LORE: Gestisci le abilita' del boss.
+GUI_CHANCES: Chances
+GUI_CHANCES_LORE: §aLe chances del boss ti eseguire una delle sue abilita'
+GUI_NO_ARMOR: NESSUNA ARMATURA
+GUI_NO_MAIN_ITEM: NESSUN OGGETTO NELLA MANO PRINCIPALE
+GUI_NO_OFF_ITEM: NESSUN OGGETTO NELLA MANO DESTRA
+GUI_BACK: Indietro
+GUI_CLICK_TO_CHANGE: Clicca per cambiare.
+GUI_CLICK_TO_CHOOSE: Clicca per scegliere il tipo.
+GUI_SET_NOTHING: IMPOSTA NIENTE
+GUI_ADD: Aggiungi
+GUI_DROP_ADD_LORE: Aggiungi un drop.
+GUI_SKILL_ADD_LORE: Aggiungi un' abilita'.
+GUI_CLICK_TO_ADD: §aClick sinistro per aggiungere.
+GUI_CLICK_TO_REMOVE: §cClick destro per rimuovere.
+GUI_CLICK_TO_ADD_PERCENTAGE: §aClick sinistro per aggiungere percentuale.
+GUI_CLICK_TO_REMOVE_PERCENTAGE: §cClick destro per rimuovere percentuale.
+GUI_LEFT_CLICK_TOTYPE_RADIUS: §aClick sinistro per scrivere in chat il raggio.
+GUI_RIGHT_CLICK_TOTYPE_TARGET: §aClick destro per scrivere in chat il bersaglio.
+GUI_Press_Q_TO_REMOVE: §cPremi Q per rimuovere il drop.
+GUI_Press_Q_TO_REMOVESKILL: §cPremi Q per rimuovere l'abilita'.
+GUI_PRESSQ_TO_TYPE: §ePremi Q per scrivere in chat.
+GUI_LEFT_TO_TYPE: §eClick destro per scrivere in chat le chances.
+GUI_RIGHT_TO_TYPE_QUANTITY: §eClick destro per scrivere in chat la quantita'.
+CONSOLE_CANNOT_USE: §cLa console non puo' usare questo comando!
+NO_PERMISSION: §cNon hai il permesso di eseguire questa azione!
+COMMAND_INVALID_ARGS: §cArgomenti non validi!
+COMMAND_NOTFOUND: §cComando non trovato!
+COMMAND_HINT_HELP: §7Scrivi in chat /bossmania help per vedere la lista dei comandi.
+BOSS_ALREADY_EXISTS: §cUn boss con questo nome esiste gia'!
+BOSS_DOESNT_EXISTS: §cUn boss con questo nome non esiste!
+BOSS_SKILL_DOESNTEXISTS: §cUn abilita' con questo nome non esiste!
+BOSS_ADDED_SKILL: §aAggiunta con successo l'abilita al boss %boss% con bersaglio %target%
+TYPE_DOESNT_EXISTS: §cIl tipo di mob non esiste!
+CHANCE_0: §cLe chance non possono essere 0!
+CHANCE_100: §cLe chance non possono essere superiori a 100%!
+CREATED_BOSS: §aCreato con successo il boss §e%boss%
+BOSS_SPAWNED: §aSpawnato con successo il boss §e%boss%
+KILLED_ALL_BOSSES: §aUccisi con successo tutti i boss.
+INVALID_NUMBER: §cNumero invalido!
+INVALID_TYPE: §cTipo invalido!
+INVALID_TARGET: §cBersaglio invalido!
+SETTED_HEALTH: §aImpostata con successo la vita %health% al boss %boss%
+REMOVED_BOSS: §aRimosso con successo il boss §e%boss%
