@@ -4,9 +4,18 @@ GUI_NEXT: Next
 GUI_NEXT_LORE: Go to next page.
 GUI_SEARCH: Search
 GUI_SEARCH_LORE: Click to search
+GUI_BOSSES_LORE: Manage the bosses
+GUI_AUTOSPAWNS_LORE: Manage the autospawns
+GUI_AUTOSPAWN_SETLOC: Set the location of the autospawn
+GUI_ENABLED: Enabled
+GUI_DISABLED: Disabled
+GUI_CLICKTO_ENABLE: §aClick to enable
+GUI_CLICKTO_DISABLE: §aClick to §cdisable
 GUI_CREATE: Create
 GUI_CREATE_LORE: Create a new boss.
+GUI_CREATE_AUTOSPAWN_LORE: Create a new autospawn.
 GUI_RIGHT_CLICK_TOTYPE_HEALTH: §aRight click to type in chat health
+GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aRight click to type in chat the secondsperspawn
 GUI_EQUIPMENT: Equipment
 GUI_EQUIPMENT_LORE: Manage the equipment of the boss.
 GUI_DROPS: Drops 
@@ -45,14 +54,19 @@ BOSS_ALREADY_EXISTS: §cA boss with this name already exists!
 BOSS_DOESNT_EXISTS: §cA boss with this name doesn't exists!
 BOSS_SKILL_DOESNTEXISTS: §cA skill with this name doesn't exists!
 BOSS_ADDED_SKILL: §aSuccessfully added skill to the boss %boss% with target %target%
+AUTOSPAWN_ALREADY_EXISTS: §cA autospawn with this name already exists!
+AUTOSPAWN_DOESNT_EXISTS: §cA autospawn with this name doesn't exists!
 TYPE_DOESNT_EXISTS: §cThis type of mob doesn't exists!
 CHANCE_0: §cThe chance cannot be 0!
 CHANCE_100: §cThe chance cannot be more than 100%!
 CREATED_BOSS: §aSuccessfully created the boss §e%boss%
+CREATED_AUTOSPAWN: §aSuccessfully created the autospawn §e%autospawn%
 BOSS_SPAWNED: §aSuccessfully spawned the boss §e%boss%
 KILLED_ALL_BOSSES: §aSuccessfully killed all the bosses.
 INVALID_NUMBER: §cInvalid number!
+INVALID_AUTOSPAWN: §cInvalid location or entities! Please, verify the autospawn and try again.
 INVALID_TYPE: §cInvalid type!
 INVALID_TARGET: §cInvalid target!
 SETTED_HEALTH: §aSuccessfully imposted health %health% to the boss %boss%
+REMOVED_AUTOSPAWN: §aSuccessfully removed the autospawn §e%autospawn%
 REMOVED_BOSS: §aSuccessfully removed the boss §e%boss%
