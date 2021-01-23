@@ -15,6 +15,7 @@ GUI_CREATE: Create
 GUI_CREATE_LORE: Create a new boss.
 GUI_CREATE_AUTOSPAWN_LORE: Create a new autospawn.
 GUI_RIGHT_CLICK_TOTYPE_HEALTH: §aRight click to type in chat health
+GUI_PRESSQ_TOTYPE_DAMAGE: §aPress Q to type in chat damage
 GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aRight click to type in chat the secondsperspawn
 GUI_EQUIPMENT: Equipment
 GUI_EQUIPMENT_LORE: Manage the equipment of the boss.
