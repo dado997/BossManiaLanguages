@@ -23,6 +23,11 @@ GUI_DROPS: Drops
 GUI_DROPS_LORE: Gestisci i drops del boss.
 GUI_SKILL: Abilita'
 GUI_SKILL_LORE: Gestisci le abilita' del boss.
+GUI_DESPAWNAFTER: DespawnDopo
+GUI_DESPAWNAFTER_LORE: Questa opzione ti permette di impostare un countdown.
+GUI_DESPAWNAFTER_LORE2: Quando il countdown finisce, il boss despawna.
+GUI_DESPAWNAFTER_LORE3: Se il boss prende danno, il countdown si resetta.
+GUI_DESPAWNAFTER_LORE4: Se non vuoi abilitare il countdown, imposta il suo valore a 0.
 GUI_CHANCES: Chances
 GUI_CHANCES_LORE: §aLe chances del boss ti eseguire una delle sue abilita'
 GUI_NO_ARMOR: NESSUNA ARMATURA
