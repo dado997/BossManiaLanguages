@@ -1,0 +1,78 @@
+GUI_PREVIOUS: Trang trước
+GUI_PREVIOUS_LORE: Đến trang trước.
+GUI_NEXT: Trang sau
+GUI_NEXT_LORE: Đến trang sau.
+GUI_SEARCH: Tìm kiếm
+GUI_SEARCH_LORE: Nhấp để tìm kiếm
+GUI_BOSSES_LORE: Quản lí quái
+GUI_AUTOSPAWNS_LORE: Quản lí tự động sinh quái
+GUI_AUTOSPAWN_SETLOC: Chọn chỗ tự động sinh quái
+GUI_ENABLED: Đã bật
+GUI_DISABLED: Đã tắt
+GUI_CLICKTO_ENABLE: §aNhấp để bật
+GUI_CLICKTO_DISABLE: §aNhấp để §ctắt
+GUI_CREATE: Tạo
+GUI_CREATE_LORE: Tạo quái mới.
+GUI_CREATE_AUTOSPAWN_LORE: Tạo nơi tự động sinh quái.
+GUI_RIGHT_CLICK_TOTYPE_HEALTH: §aChuột phải để nhập số máu
+GUI_PRESSQ_TOTYPE_DAMAGE: §aNhấn Q để nhập số sát thương
+GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aChuột phải để nhập thời gian sinh quái (giây)
+GUI_EQUIPMENT: Trang bị
+GUI_EQUIPMENT_LORE: Quản lí trang bị của quái.
+GUI_DROPS: Rơi đồ 
+GUI_DROPS_LORE: Quản lí đồ rơi từ quái.
+GUI_SKILL: Kĩ năng
+GUI_SKILL_LORE: Quản lí kĩ năng.
+GUI_DESPAWNAFTER: Thời gian biến mất
+GUI_DESPAWNAFTER_LORE: Tùy chọn này cho phép bạn chỉnh thời gian chờ.
+GUI_DESPAWNAFTER_LORE2: Khi thời gian chờ kết thúc, quái sẽ biến mất.
+GUI_DESPAWNAFTER_LORE3: Khi quái nhận sát thương, thời gian sẽ quay lại từ đầu.
+GUI_DESPAWNAFTER_LORE4: Nếu bạn không muốn bật tính năng này, chỉnh giá trị về 0.
+GUI_CHANCES: Tỉ lệ
+GUI_CHANCES_LORE: §aTỉ lệ quái thi triển kĩ năng
+GUI_NO_ARMOR: KHÔNG GIÁP
+GUI_NO_MAIN_ITEM: KHÔNG VẬT PHẨM Ở TAY CHÍNH
+GUI_NO_OFF_ITEM: KHÔNG VẬT PHẨM Ở TAY PHỤ
+GUI_BACK: Quay về
+GUI_CLICK_TO_CHANGE: Nhấp để chỉnh.
+GUI_CLICK_TO_CHOOSE: Nhấp để chọn loại.
+GUI_SET_NOTHING: CHỈNH KHÔNG CÓ GÌ
+GUI_ADD: Thêm
+GUI_DROP_ADD_LORE: Thêm đồ rơi.
+GUI_SKILL_ADD_LORE: Thêm kĩ năng.
+GUI_CLICK_TO_ADD: §aChuột trái để thêm.
+GUI_CLICK_TO_REMOVE: §cChuột phải để xóa.
+GUI_CLICK_TO_ADD_PERCENTAGE: §aChuột trái để thêm phần trăm.
+GUI_CLICK_TO_REMOVE_PERCENTAGE: §cChuột phải để xóa phần trăm.
+GUI_LEFT_CLICK_TOTYPE_RADIUS: §aChuột trái để nhập bán kính.
+GUI_RIGHT_CLICK_TOTYPE_TARGET: §aChuột phải để nhập mục tiêu.
+GUI_Press_Q_TO_REMOVE: §cNhấn Q để xóa đồ rơi.
+GUI_Press_Q_TO_REMOVESKILL: §cNhấn Q để xóa kĩ năng.
+GUI_PRESSQ_TO_TYPE: §eNhấn Q để nhập trên chat.
+GUI_LEFT_TO_TYPE: §eChuột trái để nhập tỉ lệ.
+GUI_RIGHT_TO_TYPE_QUANTITY: §eChuột phải để nhập số lượng.
+CONSOLE_CANNOT_USE: §cConsole không thể dùng lệnh này!
+NO_PERMISSION: §cBạn không có quyền làm điều này!
+COMMAND_INVALID_ARGS: §cTham số không hợp lệ!
+COMMAND_NOTFOUND: §cLệnh không tồn tại!
+COMMAND_HINT_HELP: §7Dùng lệnh /bossmania để xem tất cả lệnh.
+BOSS_ALREADY_EXISTS: §cQuái với tên đó đã tồn tại!
+BOSS_DOESNT_EXISTS: §cQuái với tên đó không tồn tại!
+BOSS_SKILL_DOESNTEXISTS: §cKĩ năng với tên đó không tồn tại!
+BOSS_ADDED_SKILL: §aĐã thêm kĩ năng cho quái %boss% với mục tiêu %target%
+AUTOSPAWN_ALREADY_EXISTS: §cChỗ tự động sinh quái với tên đó đã tồn tại!
+AUTOSPAWN_DOESNT_EXISTS: §cChỗ tự động sinh quái với tên đó không tồn tại!
+TYPE_DOESNT_EXISTS: §cLoại quái không tồn tại!
+CHANCE_0: §cTỉ lệ không thể là 0%!
+CHANCE_100: §cTỉ lệ không vượt quá 100%!
+CREATED_BOSS: §aĐã tạo quái §e%boss%
+CREATED_AUTOSPAWN: §aĐã tạo nơi tự động sinh quái §e%autospawn%
+BOSS_SPAWNED: §aĐã sinh quái §e%boss%
+KILLED_ALL_BOSSES: §aĐã giết hết quái.
+INVALID_NUMBER: §cSố không hợp lệ!
+INVALID_AUTOSPAWN: §cVị trí hoặc thực thể không hợp lệ! Hãy kiểm tra chỗ sinh quái và làm lại.
+INVALID_TYPE: §cLoại không hợp lệ!
+INVALID_TARGET: §cMục tiêu không hợp lệ!
+SETTED_HEALTH: §aĐã chỉnh máu %health% cho quái %boss%
+REMOVED_AUTOSPAWN: §aĐã xóa nơi tự động sinh quái §e%autospawn%
+REMOVED_BOSS: §aĐã xóa quái §e%boss%
