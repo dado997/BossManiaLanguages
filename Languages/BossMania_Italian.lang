@@ -23,6 +23,8 @@ GUI_DROPS: Drops
 GUI_DROPS_LORE: Gestisci i drops del boss.
 GUI_SKILL: Abilita'
 GUI_SKILL_LORE: Gestisci le abilita' del boss.
+GUI_BOSSBAR_ENABLE: Click sinistro per abilitare la bossbar (richiede un server 1.9 o piu')
+GUI_BOSSBAR_DISABLE: Click sinistro per disabilitare la bossbar
 GUI_DESPAWNAFTER: DespawnDopo
 GUI_DESPAWNAFTER_LORE: Questa opzione ti permette di impostare un countdown.
 GUI_DESPAWNAFTER_LORE2: Quando il countdown finisce, il boss despawna.
