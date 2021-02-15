@@ -78,4 +78,5 @@ INVALID_TYPE: §cTipo invalido!
 INVALID_TARGET: §cBersaglio invalido!
 SETTED_HEALTH: §aImpostata con successo la vita %health% al boss %boss%
 REMOVED_AUTOSPAWN: §aRimosso con successo l'autospawn §e%autospawn%
+PLUGIN_RELOADED: §aPlugin ricaricato con successo!
 REMOVED_BOSS: §aRimosso con successo il boss §e%boss%

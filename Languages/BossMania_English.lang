@@ -78,4 +78,5 @@ INVALID_TYPE: §cInvalid type!
 INVALID_TARGET: §cInvalid target!
 SETTED_HEALTH: §aSuccessfully imposted health %health% to the boss %boss%
 REMOVED_AUTOSPAWN: §aSuccessfully removed the autospawn §e%autospawn%
+PLUGIN_RELOADED: §aPlugin reloaded successfully!
 REMOVED_BOSS: §aSuccessfully removed the boss §e%boss%
