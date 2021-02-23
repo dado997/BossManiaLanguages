@@ -76,7 +76,9 @@ INVALID_NUMBER: §cInvalid number!
 INVALID_AUTOSPAWN: §cInvalid location or entities! Please, verify the autospawn and try again.
 INVALID_TYPE: §cInvalid type!
 INVALID_TARGET: §cInvalid target!
+TYPE_NOT_ALLOWED: §cWARNING The entity §7%entitytype% §cis not allowed in a server §7%version%§c.
 SETTED_HEALTH: §aSuccessfully imposted health %health% to the boss %boss%
+SETTED_DAMAGE: §aSuccessfully imposted damage %damage% to the boss %boss%
 REMOVED_AUTOSPAWN: §aSuccessfully removed the autospawn §e%autospawn%
 PLUGIN_RELOADED: §aPlugin reloaded successfully!
 REMOVED_BOSS: §aSuccessfully removed the boss §e%boss%
