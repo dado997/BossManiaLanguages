@@ -26,6 +26,7 @@ GUI_SKILL_LORE: Manage the skills of the boss.
 GUI_BOSSBAR_ENABLE: Left click to enable bossbar. (requires a server 1.9 or up)
 GUI_BOSSBAR_DISABLE: Left click to disable bossbar.
 GUI_CHANGE_BOSSBAR_COLOR: Right click to change color.
+GUI_CHANGE_BOSSBAR_STYLE: Press Q to change style.
 GUI_DESPAWNAFTER: DespawnAfter
 GUI_DESPAWNAFTER_LORE: This option allow you to set a countdown.
 GUI_DESPAWNAFTER_LORE2: When this countdown is finished, the boss despawn.
