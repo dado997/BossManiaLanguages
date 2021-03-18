@@ -14,8 +14,6 @@ GUI_CLICKTO_DISABLE: §aClicca per §cDisabilitare
 GUI_CREATE: Crea
 GUI_CREATE_LORE: Crea un nuovo boss.
 GUI_CREATE_AUTOSPAWN_LORE: Crea un nuovo autospawn.
-GUI_RIGHT_CLICK_TOTYPE_HEALTH: Click destro per scrivere in chat la vita.
-GUI_PRESSQ_TOTYPE_DAMAGE: §aPremi Q per scrivere in chat il danno.
 GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aClick destro per scrivere in chat i secondiperspawn
 GUI_EQUIPMENT: Equipaggiamento
 GUI_EQUIPMENT_LORE: Gestisci l'equipaggiamento del boss.
@@ -54,7 +52,19 @@ GUI_Press_Q_TO_REMOVE: §cPremi Q per rimuovere il drop.
 GUI_Press_Q_TO_REMOVESKILL: §cPremi Q per rimuovere l'abilita'.
 GUI_PRESSQ_TO_TYPE: §ePremi Q per scrivere in chat.
 GUI_LEFT_TO_TYPE: §eClick sinistro per scrivere in chat le chances.
+GUI_LEFT_TO_TYPE_ATTRIBUTE: §eClick sinistro per scrivere in chat il valore.
+GUI_RIGHT_CLICK_TO_DEFAULT: §eClick destro per impostare il valore predefinito.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eClick destro per scrivere in chat la quantita'.
+GUI_ATTRIBUTES: Attributi
+GUI_HEALTH: §eVita
+GUI_DAMAGE: §eDanno
+GUI_MOVEMENT_SPEED: §eVelocita' di movimento 
+GUI_FOLLOW_RANGE: §eRaggio di inseguimento
+GUI_KNOCKBACK_RESISTANCE: §eResistenza al contraccolpo
+GUI_MIGRATION: Importa i dati
+GUI_MIGRATION_LORE: §aDal plugin %plugin%
+GUI_MIGRATION_LORE2: I tuoi boss verranno rimossi e il server si spegnera'!
+GUI_MIGRATION_LORE3: Appena aver fatto questo, per favore, rimuovi il plugin %plugin%
 CONSOLE_CANNOT_USE: §cLa console non puo' usare questo comando!
 NO_PERMISSION: §cNon hai il permesso di eseguire questa azione!
 COMMAND_INVALID_ARGS: §cArgomenti non validi!
