@@ -26,6 +26,7 @@ GUI_BOSSBAR_DISABLE: Left click to disable bossbar.
 GUI_CHANGE_BOSSBAR_COLOR: Right click to change color.
 GUI_CHANGE_BOSSBAR_STYLE: Press Q to change style.
 GUI_DESPAWNAFTER: DespawnAfter
+GUI_DESPAWNAFTER_VALUE: §eDespawnAfter %value% seconds.
 GUI_DESPAWNAFTER_LORE: This option allow you to set a countdown.
 GUI_DESPAWNAFTER_LORE2: When this countdown is finished, the boss despawn.
 GUI_DESPAWNAFTER_LORE3: If the boss gets damage, the countdown get resetted.
