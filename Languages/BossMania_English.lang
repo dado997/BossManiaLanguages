@@ -6,6 +6,7 @@ GUI_SEARCH: Search
 GUI_SEARCH_LORE: Click to search
 GUI_BOSSES_LORE: Manage the bosses
 GUI_AUTOSPAWNS_LORE: Manage the autospawns
+GUI_AUTOSPAWN_TELEPORT: Right click to teleport.
 GUI_AUTOSPAWN_SETLOC: Set the location of the autospawn
 GUI_ENABLED: Enabled
 GUI_DISABLED: Disabled
