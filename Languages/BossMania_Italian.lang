@@ -12,6 +12,9 @@ GUI_ENABLED: Abilitato
 GUI_DISABLED: Disabilitato
 GUI_CLICKTO_ENABLE: §aClicca per abilitare
 GUI_CLICKTO_DISABLE: §aClicca per §cDisabilitare
+GUI_SET_DISPLAYNAME: §aTasto destro per scrivere in chat il nome da mostrare.
+GUI_HOLOGRAMPLUGIN_REQUIRED: §cPer mostrare un nome, ti serve HolographicDisplays!
+GUI_UNSET_DISPLAYNAME: §aPremi Q per rimuovere il nome da mostrare.
 GUI_CREATE: Crea
 GUI_CREATE_LORE: Crea un nuovo boss.
 GUI_CREATE_AUTOSPAWN_LORE: Crea un nuovo autospawn.
@@ -81,6 +84,8 @@ AUTOSPAWN_DOESNT_EXISTS: §cUn autospawn con questo nome non esiste!
 TYPE_DOESNT_EXISTS: §cIl tipo di mob non esiste!
 CHANCE_0: §cLe chance non possono essere 0!
 CHANCE_100: §cLe chance non possono essere superiori a 100%!
+SIZE_REQUIRED: §cPer creare un boss di tipo mob %mob%, devi specificare la grandezza.
+SIZE_TOO_BIG: §cLa grandezza non puo' essere maggiore di 22!
 CREATED_BOSS: §aCreato con successo il boss §e%boss%
 CREATED_AUTOSPAWN: §aCreato con successo l'autospawn §e%autospawn%
 BOSS_SPAWNED: §aSpawnato con successo il boss §e%boss%
