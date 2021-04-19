@@ -23,6 +23,10 @@ GUI_EQUIPMENT: Equipment
 GUI_EQUIPMENT_LORE: Manage the equipment of the boss.
 GUI_DROPS: Drops 
 GUI_DROPS_LORE: Manage the drops of the boss.
+GUI_SPAWN_CONDITIONS: SpawnConditions
+GUI_SPAWN_CONDITIONS_LORE: Manage the SpawnConditions of the boss.
+GUI_SPAWN_CONDITIONS_LORE2: If you add a spawn condition, the boss can spawn only if it respect the condition.
+GUI_SPAWN_CONDITIONS_LORE3: The /bm spawn command bypass the conditions.
 GUI_SKILL: Skills
 GUI_SKILL_LORE: Manage the skills of the boss.
 GUI_BOSSBAR_ENABLE: Left click to enable bossbar. (requires a server 1.9 or up)
@@ -60,12 +64,23 @@ GUI_LEFT_TO_TYPE: §eLeft click to type in chat the chance.
 GUI_LEFT_TO_TYPE_ATTRIBUTE: §eLeft click to type in chat the attribute.
 GUI_RIGHT_CLICK_TO_DEFAULT: §eRight click to set default value.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eRight click to type in chat the quantity.
+GUI_ENCHANTMENTS: §cPress Shift+Right Click/Shift+Left Click to manage enchantments.
 GUI_ATTRIBUTES: Attributes
 GUI_HEALTH: §eHealth
 GUI_DAMAGE: §eDamage
 GUI_MOVEMENT_SPEED: §eMovement speed 
 GUI_FOLLOW_RANGE: §eFollow range
 GUI_KNOCKBACK_RESISTANCE: §eKnockback resistance
+GUI_IMMUNE_TO_FIRE: §eImmune to fire
+GUI_IMMUNE_TO_EXPLOSIONS: §eImmune to explosions
+GUI_IMMUNE_TO_PROJECTILES: §eImmune to projectiles
+GUI_IMMUNE_TO_SWEEP: §eImmune to sweep attacks
+GUI_DAY_CONDITION: If enabled, the boss can do this only when is day.
+GUI_NIGHT_CONDITION: If enabled, the boss can do this only when is night.
+GUI_RAIN_CONDITION: If enabled, the boss can do this only when is raining.
+GUI_THUNDER_CONDITION: If enabled, the boss can do this only when is thundering.
+GUI_DAMAGE_FROM_PROJECTILE_CONDITION: If enabled, the boss can do this only if his last received damage was from an arrow.
+GUI_MELEE_DAMAGE_CONDITION: If enabled, the boss can do this only if his last received damage was melee.
 GUI_MIGRATION: Import Data
 GUI_MIGRATION_LORE: §aFrom the plugin %plugin%
 GUI_MIGRATION_LORE2: Your bosses will be removed and the server will shutdown!

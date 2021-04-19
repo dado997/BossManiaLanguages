@@ -23,6 +23,10 @@ GUI_EQUIPMENT: Equipaggiamento
 GUI_EQUIPMENT_LORE: Gestisci l'equipaggiamento del boss.
 GUI_DROPS: Drops
 GUI_DROPS_LORE: Gestisci i drops del boss.
+GUI_SPAWN_CONDITIONS: Condizioni di spawn
+GUI_SPAWN_CONDITIONS_LORE: Gestisci le Condizione di Spawn del boss.
+GUI_SPAWN_CONDITIONS_LORE2: Se aggiungi una Condizione di Spawn, il boss potrà spawnare solo se rispetta le condizioni.
+GUI_SPAWN_CONDITIONS_LORE3: il comando /bm spawn ignora le condizioni.
 GUI_SKILL: Abilita'
 GUI_SKILL_LORE: Gestisci le abilita' del boss.
 GUI_BOSSBAR_ENABLE: Click sinistro per abilitare la bossbar. (richiede un server 1.9 o piu')
@@ -60,12 +64,23 @@ GUI_LEFT_TO_TYPE: §eClick sinistro per scrivere in chat le chances.
 GUI_LEFT_TO_TYPE_ATTRIBUTE: §eClick sinistro per scrivere in chat il valore.
 GUI_RIGHT_CLICK_TO_DEFAULT: §eClick destro per impostare il valore predefinito.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eClick destro per scrivere in chat la quantita'.
+GUI_ENCHANTMENTS: §cPremi Shift+Destro Premi/Shift+Sinistro per gestire gli incantamenti.
 GUI_ATTRIBUTES: Attributi
 GUI_HEALTH: §eVita
 GUI_DAMAGE: §eDanno
 GUI_MOVEMENT_SPEED: §eVelocita' di movimento 
 GUI_FOLLOW_RANGE: §eRaggio di inseguimento
 GUI_KNOCKBACK_RESISTANCE: §eResistenza al contraccolpo
+GUI_IMMUNE_TO_FIRE: §eImmune al fuoco
+GUI_IMMUNE_TO_EXPLOSIONS: §eImmune alle esplosioni
+GUI_IMMUNE_TO_PROJECTILES: §eImmune ai proiettili
+GUI_IMMUNE_TO_SWEEP: §eImmune ai colpi a spazzata
+GUI_DAY_CONDITION: Se abilitata, Il boss puo' fare questo solo quando e' giorno.
+GUI_NIGHT_CONDITION: Se abilitata, Il boss puo' fare questo solo quando e' notte.
+GUI_RAIN_CONDITION: Se abilitata, Il boss puo' fare questo solo quando piove.
+GUI_THUNDER_CONDITION: Se abilitata, Il boss puo' fare questo solo quanto tuona.
+GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato da un arco.
+GUI_MELEE_DAMAGE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato corpo a corpo.
 GUI_MIGRATION: Importa i dati
 GUI_MIGRATION_LORE: §aDal plugin %plugin%
 GUI_MIGRATION_LORE2: I tuoi boss verranno rimossi e il server si spegnera'!
