@@ -74,7 +74,7 @@ GUI_KNOCKBACK_RESISTANCE: §eResistenza al contraccolpo
 GUI_IMMUNE_TO_FIRE: §eImmune al fuoco
 GUI_IMMUNE_TO_EXPLOSIONS: §eImmune alle esplosioni
 GUI_IMMUNE_TO_PROJECTILES: §eImmune ai proiettili
-GUI_IMMUNE_TO_SWEEP: §eImmune ai colpi a spazzata
+GUI_IMMUNE_TO_SWEEP: §eImmune ai colpi a spazzata (Richiede 1.12+)
 GUI_DAY_CONDITION: Se abilitata, Il boss puo' fare questo solo quando e' giorno.
 GUI_NIGHT_CONDITION: Se abilitata, Il boss puo' fare questo solo quando e' notte.
 GUI_RAIN_CONDITION: Se abilitata, Il boss puo' fare questo solo quando piove.

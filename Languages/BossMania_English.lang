@@ -74,7 +74,7 @@ GUI_KNOCKBACK_RESISTANCE: §eKnockback resistance
 GUI_IMMUNE_TO_FIRE: §eImmune to fire
 GUI_IMMUNE_TO_EXPLOSIONS: §eImmune to explosions
 GUI_IMMUNE_TO_PROJECTILES: §eImmune to projectiles
-GUI_IMMUNE_TO_SWEEP: §eImmune to sweep attacks
+GUI_IMMUNE_TO_SWEEP: §eImmune to sweep attacks (Requires 1.12+)
 GUI_DAY_CONDITION: If enabled, the boss can do this only when is day.
 GUI_NIGHT_CONDITION: If enabled, the boss can do this only when is night.
 GUI_RAIN_CONDITION: If enabled, the boss can do this only when is raining.
