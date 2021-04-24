@@ -1,0 +1,117 @@
+GUI_PREVIOUS: Назад
+GUI_PREVIOUS_LORE: Предыдущая страница.
+GUI_NEXT: Далее
+GUI_NEXT_LORE: Следующая страница.
+GUI_SEARCH: Поиск
+GUI_SEARCH_LORE: Нажмите для поиска
+GUI_BOSSES_LORE: Управление всеми боссами
+GUI_AUTOSPAWNS_LORE: Управление авто-спавном
+GUI_AUTOSPAWN_TELEPORT: ПКМ для телепорта.
+GUI_AUTOSPAWN_SETLOC: Установить точку авто-спавна
+GUI_ENABLED: Включен
+GUI_DISABLED: Отключен
+GUI_CLICKTO_ENABLE: §aНажмите, чтобы включить
+GUI_CLICKTO_DISABLE: §aНажмите, чтобы выключить
+GUI_SET_DISPLAYNAME: §aНажмите, чтобы дать имя.
+GUI_HOLOGRAMPLUGIN_REQUIRED: §cДля отображения имени, Вам нужен плагин HolographicDisplays!
+GUI_UNSET_DISPLAYNAME: §aНажмите Q, чтобы убрать DisplayName.
+GUI_CREATE: Создать
+GUI_CREATE_LORE: Создать нового босса.
+GUI_CREATE_AUTOSPAWN_LORE: Создать авто-спавн.
+GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aRight click to type in chat the secondsperspawn
+GUI_EQUIPMENT: Экипировка
+GUI_EQUIPMENT_LORE: Управление экипировкой босса.
+GUI_DROPS: Дроп
+GUI_DROPS_LORE: Управление дропом с босса.
+GUI_SPAWN_CONDITIONS: Условия для спавна
+GUI_SPAWN_CONDITIONS_LORE: Управление условиями для спавна босса.
+GUI_SPAWN_CONDITIONS_LORE2: Если вы добавите условие спавна, босс заспавнится, только если если условие соблюдено.
+GUI_SPAWN_CONDITIONS_LORE3: Команда /bm spawn пропускает условия.
+GUI_SKILL: Умения
+GUI_SKILL_LORE: Управление умениями босса.
+GUI_BOSSBAR_ENABLE: ЛКМ, чтобы включить босс-бар. (Версия сервера 1.9 или выше)
+GUI_BOSSBAR_DISABLE: ЛКМ, чтобы включить босс-бар.
+GUI_CHANGE_BOSSBAR_COLOR: ПКМ, чтобы сменить цвет.
+GUI_CHANGE_BOSSBAR_STYLE: Нажмите Q для смены стиля.
+GUI_DESPAWNAFTER: DespawnAfter
+GUI_DESPAWNAFTER_VALUE: §eDespawnAfter %value% seconds.
+GUI_DESPAWNAFTER_LORE: This option allow you to set a countdown.
+GUI_DESPAWNAFTER_LORE2: When this countdown is finished, the boss despawn.
+GUI_DESPAWNAFTER_LORE3: If the boss gets damage, the countdown get resetted.
+GUI_DESPAWNAFTER_LORE4: If you don't want to enable this countdown, set his value to 0.
+GUI_CHANCES: Шансы
+GUI_CHANCES_LORE: §aThe chances for the boss to execute one of his skills
+GUI_NO_ARMOR: БЕЗ БРОНИ
+GUI_NO_MAIN_ITEM: НЕТ ПРЕДМЕТА В ГЛАВНОЙ РУКЕ
+GUI_NO_OFF_ITEM: НЕТ ПРЕДМЕТА В СВОБОДНОЙ РУКЕ
+GUI_BACK: Назад
+GUI_CLICK_TO_CHANGE: ЛКМ для изменения.
+GUI_CLICK_TO_CHOOSE: ЛКМ, чтобы выбрать тип.
+GUI_SET_NOTHING: НИЧЕГО НЕ УСТАНАВЛИВАТЬ
+GUI_ADD: Добавить
+GUI_DROP_ADD_LORE: Добавить дроп.
+GUI_SKILL_ADD_LORE: Добавить умение.
+GUI_CLICK_TO_ADD: §aЛКМ - добавить.
+GUI_CLICK_TO_REMOVE: §cПКМ - удалить.
+GUI_CLICK_TO_ADD_PERCENTAGE: §aЛКМ, чтобы добавить процент.
+GUI_CLICK_TO_REMOVE_PERCENTAGE: §cПКМ, чтобы убрать процент.
+GUI_LEFT_CLICK_TOTYPE_RADIUS: §aLeft click to type in chat radius.
+GUI_RIGHT_CLICK_TOTYPE_TARGET: §aRight click to type in chat target.
+GUI_Press_Q_TO_REMOVE: §cНажмите Q, чтобы удалить дроп.
+GUI_Press_Q_TO_REMOVESKILL: §cНажмите Q, чтобы удалить умение.
+GUI_PRESSQ_TO_TYPE: §ePress Q to type in chat.
+GUI_LEFT_TO_TYPE: §eLeft click to type in chat the chance.
+GUI_LEFT_TO_TYPE_ATTRIBUTE: §eLeft click to type in chat the attribute.
+GUI_RIGHT_CLICK_TO_DEFAULT: §eПКМ, чтобы установить стандартное значение.
+GUI_RIGHT_TO_TYPE_QUANTITY: §eRight click to type in chat the quantity.
+GUI_ENCHANTMENTS: §cНажмите Shift+ПКМ/Shift+ЛКМ для управления зачарованиями.
+GUI_ATTRIBUTES: Аттрибуты
+GUI_HEALTH: §eЗдоровье
+GUI_DAMAGE: §eУрон
+GUI_MOVEMENT_SPEED: §eСкорость передвижения 
+GUI_FOLLOW_RANGE: §eОбласть преследования
+GUI_KNOCKBACK_RESISTANCE: §eСопротивление отбрасыванию
+GUI_IMMUNE_TO_FIRE: §eИммунитет к огну
+GUI_IMMUNE_TO_EXPLOSIONS: §eИммунитет к взрывам
+GUI_IMMUNE_TO_PROJECTILES: §eИммунитет к выстрелам
+GUI_IMMUNE_TO_SWEEP: §eImmune to sweep attacks
+GUI_DAY_CONDITION: Если включено, босс может сделать это только днём.
+GUI_NIGHT_CONDITION: Если включено, босс может сделать это только в ночи.
+GUI_RAIN_CONDITION: Если включено, босс может сделать это только во время дождя.
+GUI_THUNDER_CONDITION: Если включено, босс может сделать это только в грозу.
+GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Если включено, босс может сделать это только в том случае, если его последний полученный урон был от стрелы.
+GUI_MELEE_DAMAGE_CONDITION: Если включено, босс может сделать это только в том случае, если его последний полученный урон был в ближнем бою.
+GUI_MIGRATION: Импорт данных
+GUI_MIGRATION_LORE: §aИз плагина %plugin%
+GUI_MIGRATION_LORE2: Боссы будут удалены, а сервер выключен!
+GUI_MIGRATION_LORE3: После завершения, пожалуйста, удалите плагин %plugin%
+CONSOLE_CANNOT_USE: §cConsole cannot use this command!
+NO_PERMISSION: §cYou don't have permission to perform this action!
+COMMAND_INVALID_ARGS: §cНеверные аргументы!
+COMMAND_NOTFOUND: §cКоманда не найдена!
+COMMAND_HINT_HELP: §7Введите в чат: /bossmania для списка всех команд.
+BOSS_ALREADY_EXISTS: §cБосс с таким именем уже существует!
+BOSS_DOESNT_EXISTS: §cБосса с таким именем нету!
+BOSS_SKILL_DOESNTEXISTS: §cУмения с таким названием не существует!
+BOSS_ADDED_SKILL: §aSuccessfully added skill to the boss %boss% with target %target%
+AUTOSPAWN_ALREADY_EXISTS: §cТочка авто-спавна с таким именем уже существует!
+AUTOSPAWN_DOESNT_EXISTS: §cТакой точки авто-спавна не существует!
+TYPE_DOESNT_EXISTS: §cНеизвестный тип моба!
+CHANCE_0: §cШанс не может быть меньше 0!
+CHANCE_100: §cШанс не может превышать 100%!
+SIZE_REQUIRED: §cЧтобы создать босса с типом: %mob%, Вам необходимо указать размер.
+SIZE_TOO_BIG: §cРазмер не может быть больше 22!
+CREATED_BOSS: §aSuccessfully created the boss §e%boss%
+CREATED_AUTOSPAWN: §aSuccessfully created the autospawn §e%autospawn%
+BOSS_SPAWNED: §aБосс: §e%boss% успешно призван
+KILLED_ALL_BOSSES: §aВсе боссы убиты.
+INVALID_NUMBER: §cНедопустимое число!
+INVALID_AUTOSPAWN: §cInvalid location or entities! Please, verify the autospawn and try again.
+INVALID_TYPE: §cНедопустимый тип!
+INVALID_TARGET: §cНеверная цель!
+TYPE_NOT_ALLOWED: §cВНИМАНИЕ The entity §7%entitytype% §cis not allowed in a server §7%version%§c.
+SETTED_HEALTH: §aSuccessfully imposted health %health% to the boss %boss%
+SETTED_DAMAGE: §aSuccessfully imposted damage %damage% to the boss %boss%
+REMOVED_AUTOSPAWN: §aАвто-спавн §e%autospawn% был убран
+PLUGIN_RELOADED: §aПлагин перезапущен!
+REMOVED_BOSS: §aБосс: §e%boss% был убран
