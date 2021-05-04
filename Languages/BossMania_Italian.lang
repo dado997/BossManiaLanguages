@@ -81,6 +81,13 @@ GUI_RAIN_CONDITION: Se abilitata, Il boss puo' fare questo solo quando piove.
 GUI_THUNDER_CONDITION: Se abilitata, Il boss puo' fare questo solo quanto tuona.
 GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato da un arco.
 GUI_MELEE_DAMAGE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato corpo a corpo.
+GUI_TARGET_TYPE: §eTipo di target.
+GUI_UNAVAILABLE: §cNon disponibile per questo mob.
+GUI_ISBABY: §eBambino
+GUI_PREVENTSPLIT: §eImpedisci divisione.
+GUI_PREVENTSUNBURN: §eImpedisci bruciature da sole.
+GUI_PREVENTTELEPORT: §eImpedisci di teletrasportarsi.
+GUI_GLOWING: §eLuccica (Richiede 1.9+)
 GUI_MIGRATION: Importa i dati
 GUI_MIGRATION_LORE: §aDal plugin %plugin%
 GUI_MIGRATION_LORE2: I tuoi boss verranno rimossi e il server si spegnera'!
