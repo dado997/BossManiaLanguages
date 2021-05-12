@@ -112,6 +112,7 @@ CREATED_BOSS: §aSuccessfully created the boss §e%boss%
 CREATED_AUTOSPAWN: §aSuccessfully created the autospawn §e%autospawn%
 BOSS_SPAWNED: §aSuccessfully spawned the boss §e%boss%
 KILLED_ALL_BOSSES: §aSuccessfully killed all the bosses.
+KILLED_ALL_BOSSES_OF: §aSuccessfully killed all the bosses of the type §e%type%.
 INVALID_NUMBER: §cInvalid number!
 INVALID_AUTOSPAWN: §cInvalid location or entities! Please, verify the autospawn and try again.
 INVALID_TYPE: §cInvalid type!
