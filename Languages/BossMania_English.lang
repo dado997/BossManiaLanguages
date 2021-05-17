@@ -14,6 +14,7 @@ GUI_CLICKTO_ENABLE: §aClick to enable
 GUI_CLICKTO_DISABLE: §aClick to §cdisable
 GUI_SET_DISPLAYNAME: §aRight click to type in chat display name.
 GUI_HOLOGRAMPLUGIN_REQUIRED: §cTo display a name, you need to have HolographicDisplays!
+GUI_VAULT_REQUIRED: §cTo set money, you need to have Vault and an economy plugin!
 GUI_UNSET_DISPLAYNAME: §aPress Q to remove DisplayName.
 GUI_CREATE: Create
 GUI_CREATE_LORE: Create a new boss.
@@ -23,6 +24,8 @@ GUI_EQUIPMENT: Equipment
 GUI_EQUIPMENT_LORE: Manage the equipment of the boss.
 GUI_DROPS: Drops 
 GUI_DROPS_LORE: Manage the drops of the boss.
+GUI_DROPPEDMONEY: Dropped money
+GUI_UNAVAIBLE: §cUnavaible
 GUI_SPAWN_CONDITIONS: SpawnConditions
 GUI_SPAWN_CONDITIONS_LORE: Manage the SpawnConditions of the boss.
 GUI_SPAWN_CONDITIONS_LORE2: If you add a spawn condition, the boss can spawn only if it respect the condition.

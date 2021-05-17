@@ -14,6 +14,7 @@ GUI_CLICKTO_ENABLE: §aClicca per abilitare
 GUI_CLICKTO_DISABLE: §aClicca per §cDisabilitare
 GUI_SET_DISPLAYNAME: §aTasto destro per scrivere in chat il nome da mostrare.
 GUI_HOLOGRAMPLUGIN_REQUIRED: §cPer mostrare un nome, ti serve HolographicDisplays!
+GUI_VAULT_REQUIRED: §cPer impostare soldi, Ti serve Vault e un plugin per l'economia!
 GUI_UNSET_DISPLAYNAME: §aPremi Q per rimuovere il nome da mostrare.
 GUI_CREATE: Crea
 GUI_CREATE_LORE: Crea un nuovo boss.
@@ -23,6 +24,8 @@ GUI_EQUIPMENT: Equipaggiamento
 GUI_EQUIPMENT_LORE: Gestisci l'equipaggiamento del boss.
 GUI_DROPS: Drops
 GUI_DROPS_LORE: Gestisci i drops del boss.
+GUI_DROPPEDMONEY: Soldi droppati
+GUI_UNAVAIBLE: §cNon disponibile
 GUI_SPAWN_CONDITIONS: Condizioni di spawn
 GUI_SPAWN_CONDITIONS_LORE: Gestisci le Condizione di Spawn del boss.
 GUI_SPAWN_CONDITIONS_LORE2: Se aggiungi una Condizione di Spawn, il boss potrà spawnare solo se rispetta le condizioni.
