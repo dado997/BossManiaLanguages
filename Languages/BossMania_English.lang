@@ -60,8 +60,13 @@ GUI_CLICK_TO_ADD_PERCENTAGE: §aLeft click to add percentage.
 GUI_CLICK_TO_REMOVE_PERCENTAGE: §cRight click to remove percentage.
 GUI_LEFT_CLICK_TOTYPE_RADIUS: §aLeft click to type in chat radius.
 GUI_RIGHT_CLICK_TOTYPE_TARGET: §aRight click to type in chat target.
+GUI_LEFT_CLICK_TOTYPE_VOLUME: §aLeft click to type in chat volume.
+GUI_RIGHT_CLICK_TOTYPE_PITCH: §aRight click to type in chat pitch.
 GUI_Press_Q_TO_REMOVE: §cPress Q to remove drop.
 GUI_Press_Q_TO_REMOVESKILL: §cPress Q to remove skill.
+GUI_Press_Q_TO_REMOVESOUND: §cPress Q to remove sound.
+GUI_PRESS_SHIFT_TO_MANAGE: §cPress Shift+Right Click/Shift+Left Click to manage conditions.
+GUI_Press_Q_TO_REMOVEBOSS: §cPress Q to remove boss.
 GUI_PRESSQ_TO_TYPE: §ePress Q to type in chat.
 GUI_LEFT_TO_TYPE: §eLeft click to type in chat the chance.
 GUI_LEFT_TO_TYPE_ATTRIBUTE: §eLeft click to type in chat the attribute.
@@ -91,6 +96,14 @@ GUI_PREVENTSPLIT: §ePreventSplit
 GUI_PREVENTSUNBURN: §ePreventSunBurn
 GUI_PREVENTTELEPORT: §ePreventTeleport
 GUI_GLOWING: §eGlowing (Requires 1.9+)
+GUI_SOUNDS: Sounds
+GUI_ONSPAWNSOUNDS: OnSpawnSounds
+GUI_ONDAMAGESOUNDS: OnDamageSounds
+GUI_ONDEATHSOUNDS: OnDeathSounds
+GUI_SOUNDS_LORE: Manage sounds made by the boss.
+GUI_SOUNDSONSPAWN: Manage sounds made by the boss when it spawns.
+GUI_SOUNDSONDEATH: Manage sounds made by the boss when it deaths.
+GUI_SOUNDSONDAMAGE: Manage sounds made by the boss when it receive damage.
 GUI_MIGRATION: Import Data
 GUI_MIGRATION_LORE: §aFrom the plugin %plugin%
 GUI_MIGRATION_LORE2: Your bosses will be removed and the server will shutdown!

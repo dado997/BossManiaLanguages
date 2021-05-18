@@ -60,8 +60,11 @@ GUI_CLICK_TO_ADD_PERCENTAGE: §aClick sinistro per aggiungere percentuale.
 GUI_CLICK_TO_REMOVE_PERCENTAGE: §cClick destro per rimuovere percentuale.
 GUI_LEFT_CLICK_TOTYPE_RADIUS: §aClick sinistro per scrivere in chat il raggio.
 GUI_RIGHT_CLICK_TOTYPE_TARGET: §aClick destro per scrivere in chat il bersaglio.
+GUI_LEFT_CLICK_TOTYPE_VOLUME: §aClick sinistro per scrivere in chat il volume.
+GUI_RIGHT_CLICK_TOTYPE_PITCH: §aClick destro per scrivere in chat l'intonazione.
 GUI_Press_Q_TO_REMOVE: §cPremi Q per rimuovere il drop.
 GUI_Press_Q_TO_REMOVESKILL: §cPremi Q per rimuovere l'abilita'.
+GUI_Press_Q_TO_REMOVESOUND: §cPremi Q per rimuovere il suono.
 GUI_PRESSQ_TO_TYPE: §ePremi Q per scrivere in chat.
 GUI_LEFT_TO_TYPE: §eClick sinistro per scrivere in chat le chances.
 GUI_LEFT_TO_TYPE_ATTRIBUTE: §eClick sinistro per scrivere in chat il valore.
@@ -91,6 +94,14 @@ GUI_PREVENTSPLIT: §eImpedisci divisione.
 GUI_PREVENTSUNBURN: §eImpedisci bruciature da sole.
 GUI_PREVENTTELEPORT: §eImpedisci di teletrasportarsi.
 GUI_GLOWING: §eLuccica (Richiede 1.9+)
+GUI_SOUNDS: Suoni
+GUI_ONSPAWNSOUNDS: Suoni quando spawna
+GUI_ONDAMAGESOUNDS: Suoni quando riceve danno
+GUI_ONDEATHSOUNDS: Suoni quando muore
+GUI_SOUNDS_LORE: Gestisci i suoni fatti dal boss.
+GUI_SOUNDSONSPAWN: Gestisci i suoni fatti dal boss quando spawna.
+GUI_SOUNDSONDEATH: Gestisci i suoni fatti dal boss quando muore.
+GUI_SOUNDSONDAMAGE: Gestisci i suoni fatti dal boss quando riceve danno.
 GUI_MIGRATION: Importa i dati
 GUI_MIGRATION_LORE: §aDal plugin %plugin%
 GUI_MIGRATION_LORE2: I tuoi boss verranno rimossi e il server si spegnera'!
