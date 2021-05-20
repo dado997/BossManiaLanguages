@@ -96,6 +96,8 @@ GUI_PREVENTSPLIT: §ePreventSplit
 GUI_PREVENTSUNBURN: §ePreventSunBurn
 GUI_PREVENTTELEPORT: §ePreventTeleport
 GUI_GLOWING: §eGlowing (Requires 1.9+)
+GUI_DISABLE_SOUNDS: §eDisable default sounds (Requires 1.10+)
+GUI_DISABLE_SOUNDS_LORE: This option allows you to disable default sounds of the mob.
 GUI_SOUNDS: Sounds
 GUI_ONSPAWNSOUNDS: OnSpawnSounds
 GUI_ONDAMAGESOUNDS: OnDamageSounds

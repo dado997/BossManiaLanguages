@@ -94,6 +94,8 @@ GUI_PREVENTSPLIT: §eImpedisci divisione.
 GUI_PREVENTSUNBURN: §eImpedisci bruciature da sole.
 GUI_PREVENTTELEPORT: §eImpedisci di teletrasportarsi.
 GUI_GLOWING: §eLuccica (Richiede 1.9+)
+GUI_DISABLE_SOUNDS: §eDisabilita i suoni predefiniti (Richiede 1.10+)
+GUI_DISABLE_SOUNDS_LORE: Questa opzione ti permette di disabilitare i suoni predefiniti del mob.
 GUI_SOUNDS: Suoni
 GUI_ONSPAWNSOUNDS: Suoni quando spawna
 GUI_ONDAMAGESOUNDS: Suoni quando riceve danno
