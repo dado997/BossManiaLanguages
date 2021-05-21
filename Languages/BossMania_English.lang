@@ -101,11 +101,13 @@ GUI_DISABLE_SOUNDS_LORE: This option allows you to disable default sounds of the
 GUI_SOUNDS: Sounds
 GUI_ONSPAWNSOUNDS: OnSpawnSounds
 GUI_ONDAMAGESOUNDS: OnDamageSounds
+GUI_ONEXECUTESKILLSOUNDS: OnExecuteSkillSounds
 GUI_ONDEATHSOUNDS: OnDeathSounds
 GUI_SOUNDS_LORE: Manage sounds made by the boss.
 GUI_SOUNDSONSPAWN: Manage sounds made by the boss when it spawns.
 GUI_SOUNDSONDEATH: Manage sounds made by the boss when it deaths.
 GUI_SOUNDSONDAMAGE: Manage sounds made by the boss when it receive damage.
+GUI_SOUNDSONEXECUTE: Manage sounds made by the boss when it executes a skill.
 GUI_MIGRATION: Import Data
 GUI_MIGRATION_LORE: §aFrom the plugin %plugin%
 GUI_MIGRATION_LORE2: Your bosses will be removed and the server will shutdown!
