@@ -88,6 +88,13 @@ GUI_THUNDER_CONDITION: Se abilitata, Il boss puo' fare questo solo quanto tuona.
 GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato da un arco.
 GUI_MELEE_DAMAGE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato corpo a corpo.
 GUI_TARGET_TYPE: §eTipo di target.
+GUI_RANDOMSPAWN: Spawn casuale
+GUI_RANDOMSPAWN_LORE: Gestisci lo spawn casuale del boss.
+GUI_CHANCE: Imposta la chance con il quale il boss spawna automaticamente.
+GUI_ALLOWED_WORLD: Mondi autorizzati
+GUI_ALLOWED_WORLD_LORE: Imposta i mondi nel quale il boss può spawnare automaticamente.
+GUI_ALLOWED_BIOMES: Biomi autorizzati
+GUI_ALLOWED_BIOMES_LORE: Imposta i biomi nel quale il boss può spawnare automaticamente.
 GUI_UNAVAILABLE: §cNon disponibile per questo mob.
 GUI_ISBABY: §eBambino
 GUI_PREVENTSPLIT: §eImpedisci divisione.

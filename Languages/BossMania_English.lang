@@ -90,6 +90,13 @@ GUI_THUNDER_CONDITION: If enabled, the boss can do this only when is thundering.
 GUI_DAMAGE_FROM_PROJECTILE_CONDITION: If enabled, the boss can do this only if his last received damage was from an arrow.
 GUI_MELEE_DAMAGE_CONDITION: If enabled, the boss can do this only if his last received damage was melee.
 GUI_TARGET_TYPE: §eTarget type
+GUI_RANDOMSPAWN: RandomSpawn
+GUI_RANDOMSPAWN_LORE: Manage the automatic spawn of the boss around the world.
+GUI_CHANCE: Set the chance with which the boss can spawn in the world.
+GUI_ALLOWED_WORLD: Allowed worlds
+GUI_ALLOWED_WORLD_LORE: Set the worlds with which the boss is allowed to spawn.
+GUI_ALLOWED_BIOMES: Allowed biomes
+GUI_ALLOWED_BIOMES_LORE: Set the biomes with which the boss is allowed to spawn in the worlds.
 GUI_UNAVAILABLE: §cUnavailable for this mob.
 GUI_ISBABY: §eIsBaby
 GUI_PREVENTSPLIT: §ePreventSplit
