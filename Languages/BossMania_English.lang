@@ -97,6 +97,8 @@ GUI_ALLOWED_WORLD: Allowed worlds
 GUI_ALLOWED_WORLD_LORE: Set the worlds with which the boss is allowed to spawn.
 GUI_ALLOWED_BIOMES: Allowed biomes
 GUI_ALLOWED_BIOMES_LORE: Set the biomes with which the boss is allowed to spawn in the worlds.
+GUI_ALL_BIOMES_ALLOWED: AllBiomesAllowed
+GUI_ALL_BIOMES_ALLOWED_LORE: If this option is enabled, the boss will be allowed to spawn in all biomes.
 GUI_UNAVAILABLE: §cUnavailable for this mob.
 GUI_ISBABY: §eIsBaby
 GUI_PREVENTSPLIT: §ePreventSplit

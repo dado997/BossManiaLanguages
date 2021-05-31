@@ -95,6 +95,8 @@ GUI_ALLOWED_WORLD: Mondi autorizzati
 GUI_ALLOWED_WORLD_LORE: Imposta i mondi nel quale il boss può spawnare automaticamente.
 GUI_ALLOWED_BIOMES: Biomi autorizzati
 GUI_ALLOWED_BIOMES_LORE: Imposta i biomi nel quale il boss può spawnare automaticamente.
+GUI_ALL_BIOMES_ALLOWED: Tutti i biomi autorizzati
+GUI_ALL_BIOMES_ALLOWED_LORE: Se abilitata, il boss potrà spawnare in tutti i biomi.
 GUI_UNAVAILABLE: §cNon disponibile per questo mob.
 GUI_ISBABY: §eBambino
 GUI_PREVENTSPLIT: §eImpedisci divisione.
