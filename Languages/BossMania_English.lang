@@ -44,6 +44,9 @@ GUI_DESPAWNAFTER_LORE3: If the boss gets damage, the countdown get resetted.
 GUI_DESPAWNAFTER_LORE4: If you don't want to enable this countdown, set his value to 0.
 GUI_CHANCES: Chances
 GUI_CHANCES_LORE: §aThe chances for the boss to execute one of his skills
+GUI_MAX_BOSSES_FOR_CHUNK: MaxBossesForChunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE: Set how many bosses can spawn with randomSpawns in a chunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE2: If you don't want to set a limit, type 0.
 GUI_NO_ARMOR: NO ARMOR
 GUI_NO_MAIN_ITEM: NO ITEM IN MAIN HAND
 GUI_NO_OFF_ITEM: NO ITEM IN OFF HAND
