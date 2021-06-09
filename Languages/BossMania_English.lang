@@ -8,6 +8,10 @@ GUI_BOSSES_LORE: Manage the bosses
 GUI_AUTOSPAWNS_LORE: Manage the autospawns
 GUI_AUTOSPAWN_TELEPORT: Right click to teleport.
 GUI_AUTOSPAWN_SETLOC: Set the location of the autospawn
+GUI_MAX_SPAWNABLE_BOSSES: MaxSpawnableBosses
+GUI_MAX_SPAWNABLE_BOSSES_LORE: By setting this limit, bosses will only be able to spawn from autospawn
+GUI_MAX_SPAWNABLE_BOSSES_LORE2: only if the number of bosses spawned will be less than this limit.
+GUI_MAX_SPAWNABLE_BOSSES_LORE3: If you don't want set this limit, set this at 0.
 GUI_ENABLED: Enabled
 GUI_DISABLED: Disabled
 GUI_CLICKTO_ENABLE: §aClick to enable

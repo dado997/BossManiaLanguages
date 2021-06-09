@@ -8,6 +8,10 @@ GUI_BOSSES_LORE: Gestisci i boss
 GUI_AUTOSPAWNS_LORE: Gestisci gli autospawn
 GUI_AUTOSPAWN_TELEPORT: Tasto destro per teletrasportarti.
 GUI_AUTOSPAWN_SETLOC: Imposta la location degli autospawn
+GUI_MAX_SPAWNABLE_BOSSES: Massimi boss spawnabili
+GUI_MAX_SPAWNABLE_BOSSES_LORE: Impostando questo limite, I boss potranno spawnare dall'autospawn
+GUI_MAX_SPAWNABLE_BOSSES_LORE2: solo se il numero dei boss spawnati sara' minore di questo limite.
+GUI_MAX_SPAWNABLE_BOSSES_LORE3: Se non vuoi impostare questo limite, impostalo a 0.
 GUI_ENABLED: Abilitato
 GUI_DISABLED: Disabilitato
 GUI_CLICKTO_ENABLE: §aClicca per abilitare
