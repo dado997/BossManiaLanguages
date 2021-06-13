@@ -74,6 +74,9 @@ GUI_Press_Q_TO_REMOVESKILL: §cPremi Q per rimuovere l'abilita'.
 GUI_Press_Q_TO_REMOVESOUND: §cPremi Q per rimuovere il suono.
 GUI_PRESSQ_TO_TYPE: §ePremi Q per scrivere in chat.
 GUI_LEFT_TO_TYPE: §eClick sinistro per scrivere in chat le chances.
+GUI_GO_UPTOMAX: §eSe vuoi impostare un valore piu' alto di %max%, modifica il valore %value%
+GUI_GO_UPTOMAX2: §enel file spigot.yml, e riavvia il server(non reload).
+GUI_LEFT_TO_TYPE_LEVEL: §eLeft click to type in chat the level.
 GUI_LEFT_TO_TYPE_ATTRIBUTE: §eClick sinistro per scrivere in chat il valore.
 GUI_RIGHT_CLICK_TO_DEFAULT: §eClick destro per impostare il valore predefinito.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eClick destro per scrivere in chat la quantita'.

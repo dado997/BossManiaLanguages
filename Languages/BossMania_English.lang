@@ -76,6 +76,9 @@ GUI_PRESS_SHIFT_TO_MANAGE: §cPress Shift+Right Click/Shift+Left Click to manage
 GUI_Press_Q_TO_REMOVEBOSS: §cPress Q to remove boss.
 GUI_PRESSQ_TO_TYPE: §ePress Q to type in chat.
 GUI_LEFT_TO_TYPE: §eLeft click to type in chat the chance.
+GUI_GO_UPTOMAX: §eIf you want to set a value higher than %max%, modify the %value%
+GUI_GO_UPTOMAX2: §ein the spigot.yml file, and restart the server(not reload).
+GUI_LEFT_TO_TYPE_LEVEL: §eLeft click to type in chat the level.
 GUI_LEFT_TO_TYPE_ATTRIBUTE: §eLeft click to type in chat the attribute.
 GUI_RIGHT_CLICK_TO_DEFAULT: §eRight click to set default value.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eRight click to type in chat the quantity.
