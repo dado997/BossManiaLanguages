@@ -30,6 +30,8 @@ GUI_DROPS: Drops
 GUI_DROPS_LORE: Manage the drops of the boss.
 GUI_DROPPEDMONEY: Dropped money
 GUI_UNAVAIBLE: §cUnavaible
+GUI_COMMAND_DROPS: Manage the command drops. Command drops are commands executed when the boss die.
+GUI_COMMAND_REPLACE: The word %killer% will be replaced by the name of the boss killer.
 GUI_SPAWN_CONDITIONS: SpawnConditions
 GUI_SPAWN_CONDITIONS_LORE: Manage the SpawnConditions of the boss.
 GUI_SPAWN_CONDITIONS_LORE2: If you add a spawn condition, the boss can spawn only if it respect the condition.
