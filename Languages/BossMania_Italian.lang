@@ -58,6 +58,7 @@ GUI_NO_MAIN_ITEM: NESSUN OGGETTO NELLA MANO PRINCIPALE
 GUI_NO_OFF_ITEM: NESSUN OGGETTO NELLA MANO DESTRA
 GUI_BACK: Indietro
 GUI_CLICK_TO_CHANGE: Clicca per cambiare.
+GUI_LEFT_CLICK_TO_CHANGE: Click sinistro per cambiare.
 GUI_CLICK_TO_CHOOSE: Clicca per scegliere il tipo.
 GUI_SET_NOTHING: IMPOSTA NIENTE
 GUI_ADD: Aggiungi
@@ -76,6 +77,7 @@ GUI_Press_Q_TO_REMOVESKILL: §cPremi Q per rimuovere l'abilita'.
 GUI_Press_Q_TO_REMOVESOUND: §cPremi Q per rimuovere il suono.
 GUI_PRESSQ_TO_TYPE: §ePremi Q per scrivere in chat.
 GUI_LEFT_TO_TYPE: §eClick sinistro per scrivere in chat le chances.
+GUI_RIGHT_TO_TYPE: Click destro per scrivere in chat le chances.
 GUI_GO_UPTOMAX: §eSe vuoi impostare un valore piu' alto di %max%, modifica il valore %value%
 GUI_GO_UPTOMAX2: §enel file spigot.yml, e riavvia il server(non reload).
 GUI_LEFT_TO_TYPE_LEVEL: §eLeft click to type in chat the level.

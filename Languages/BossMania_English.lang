@@ -58,6 +58,7 @@ GUI_NO_MAIN_ITEM: NO ITEM IN MAIN HAND
 GUI_NO_OFF_ITEM: NO ITEM IN OFF HAND
 GUI_BACK: Back
 GUI_CLICK_TO_CHANGE: Click to change.
+GUI_LEFT_CLICK_TO_CHANGE: Left click to change.
 GUI_CLICK_TO_CHOOSE: Click to choose type.
 GUI_SET_NOTHING: SET NOTHING
 GUI_ADD: Add
@@ -78,6 +79,7 @@ GUI_PRESS_SHIFT_TO_MANAGE: §cPress Shift+Right Click/Shift+Left Click to manage
 GUI_Press_Q_TO_REMOVEBOSS: §cPress Q to remove boss.
 GUI_PRESSQ_TO_TYPE: §ePress Q to type in chat.
 GUI_LEFT_TO_TYPE: §eLeft click to type in chat the chance.
+GUI_RIGHT_TO_TYPE: Right click to type in chat the chance.
 GUI_GO_UPTOMAX: §eIf you want to set a value higher than %max%, modify the %value%
 GUI_GO_UPTOMAX2: §ein the spigot.yml file, and restart the server(not reload).
 GUI_LEFT_TO_TYPE_LEVEL: §eLeft click to type in chat the level.
