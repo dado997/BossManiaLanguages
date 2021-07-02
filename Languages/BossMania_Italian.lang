@@ -29,6 +29,7 @@ GUI_EQUIPMENT_LORE: Gestisci l'equipaggiamento del boss.
 GUI_DROPS: Drops
 GUI_DROPS_LORE: Gestisci i drops del boss.
 GUI_DROPPEDMONEY: Soldi droppati
+GUI_AVAIBLE: §cDisponibile solo nelle custom skills.
 GUI_UNAVAIBLE: §cNon disponibile
 GUI_COMMAND_DROPS: Gestisci i drop comandi. I drop comandi sono comandi eseguiti quando il boss muore.
 GUI_COMMAND_REPLACE: La parola %killer% verra' rimpiazzata dal nome dell'uccisore del boss.
@@ -85,6 +86,7 @@ GUI_LEFT_TO_TYPE_ATTRIBUTE: §eClick sinistro per scrivere in chat il valore.
 GUI_RIGHT_CLICK_TO_DEFAULT: §eClick destro per impostare il valore predefinito.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eClick destro per scrivere in chat la quantita'.
 GUI_ENCHANTMENTS: §cPremi Shift+Destro Premi/Shift+Sinistro per gestire gli incantamenti.
+GUI_ACTIONS: Premi per gestire le azioni eseguite.
 GUI_ATTRIBUTES: Attributi
 GUI_HEALTH: §eVita
 GUI_DAMAGE: §eDanno
