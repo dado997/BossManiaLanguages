@@ -90,6 +90,7 @@ GUI_LEFT_TO_TYPE_QUANTITY: §eLeft click to type in chat the quantity.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eRight click to type in chat the quantity.
 GUI_ENCHANTMENTS: §cPress Shift+Right Click/Shift+Left Click to manage enchantments.
 GUI_CLICK_ENCHANTMENTS: §cClick to manage enchantments.
+GUI_SETININVENTORY: §cIf this option is enabled, the drop will be directly added in the boss killer's inventory.
 GUI_ACTIONS: Click to manage the actions executed.
 GUI_ATTRIBUTES: Attributes
 GUI_HEALTH: §eHealth
