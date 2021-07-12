@@ -85,7 +85,9 @@ GUI_LEFT_TO_TYPE_LEVEL: §eLeft click to type in chat the level.
 GUI_LEFT_TO_TYPE_ATTRIBUTE: §eClick sinistro per scrivere in chat il valore.
 GUI_RIGHT_CLICK_TO_DEFAULT: §eClick destro per impostare il valore predefinito.
 GUI_RIGHT_TO_TYPE_QUANTITY: §eClick destro per scrivere in chat la quantita'.
+GUI_LEFT_TO_TYPE_QUANTITY: §eClick sinistro per scrivere in chat la quantita'.
 GUI_ENCHANTMENTS: §cPremi Shift+Destro Premi/Shift+Sinistro per gestire gli incantamenti.
+GUI_CLICK_ENCHANTMENTS: §cPremi per gestire gli incantamenti.
 GUI_ACTIONS: Premi per gestire le azioni eseguite.
 GUI_ATTRIBUTES: Attributi
 GUI_HEALTH: §eVita
