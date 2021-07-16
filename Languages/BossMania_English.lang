@@ -39,7 +39,7 @@ GUI_SPAWN_CONDITIONS_LORE2: If you add a spawn condition, the boss can spawn onl
 GUI_SPAWN_CONDITIONS_LORE3: The /bm spawn command bypass the conditions.
 GUI_SKILL: Skills
 GUI_SKILL_LORE: Manage the skills of the boss.
-GUI_BOSSBAR_ENABLE: Left click to enable bossbar. (requires a server 1.9 or up)
+GUI_BOSSBAR_ENABLE: Left click to enable bossbar. (requires a server 1.13.2 or up)
 GUI_BOSSBAR_DISABLE: Left click to disable bossbar.
 GUI_CHANGE_BOSSBAR_COLOR: Right click to change color.
 GUI_CHANGE_BOSSBAR_STYLE: Press Q to change style.
