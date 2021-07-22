@@ -160,6 +160,8 @@ BOSS_SPAWNED: §aSpawnato con successo il boss §e%boss%
 KILLED_ALL_BOSSES: §aUccisi con successo tutti i boss.
 KILLED_ALL_BOSSES_OF: §aUccisi con successo tutti i boss del tipo §e%type%.
 INVALID_NUMBER: §cNumero invalido!
+INVALID_COORDS: §cCoordinate non valide!
+CONSOLE_SPEC: §cLa console deve specificare le coordinate!
 INVALID_AUTOSPAWN: §cLocation o entita' invalide! Per favore, verifica l'autospawn e riprova.
 INVALID_TYPE: §cTipo invalido!
 INVALID_TARGET: §cBersaglio invalido!
