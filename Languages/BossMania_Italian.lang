@@ -4,6 +4,12 @@ GUI_NEXT: Avanti
 GUI_NEXT_LORE: Vai alla prossima pagina.
 GUI_SEARCH: Cerca
 GUI_SEARCH_LORE: Clicca per cercare
+GUI_REMOVE: Rimuovi
+GUI_REMOVE_LORE: Rimuovi il boss.
+GUI_CONFIRM: Conferma
+GUI_CONFIRM_LORE: §7Clicca per confermare.
+GUI_ABORT: Annulla
+GUI_ABORT_LORE: §7Clicca per annullare.
 GUI_BOSSES_LORE: Gestisci i boss
 GUI_AUTOSPAWNS_LORE: Gestisci gli autospawn
 GUI_AUTOSPAWN_TELEPORT: Tasto destro per teletrasportarti.
