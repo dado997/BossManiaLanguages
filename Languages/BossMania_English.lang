@@ -115,6 +115,15 @@ GUI_THUNDER_CONDITION: If enabled, the boss can do this only when is thundering.
 GUI_DAMAGE_FROM_PROJECTILE_CONDITION: If enabled, the boss can do this only if his last received damage was from an arrow.
 GUI_MELEE_DAMAGE_CONDITION: If enabled, the boss can do this only if his last received damage was melee.
 GUI_TARGET_TYPE: §eTarget type
+GUI_AI_TYPE: §eAi type
+GUI_AGGESSIVE: Aggressive
+GUI_AGGRESSIVE_LORE: §eThe boss will attack other players.
+GUI_NEUTRAL: Neutral
+GUI_NEUTRAL_LORE: §eThe boss will attack other players only if they attack him.
+GUI_PACIFIC: Pacific
+GUI_PACIFIC_LORE: §eThe boss will not attack players.
+GUI_DEFAULT: Default
+GUI_DEFAULT_LORE: §eThe ai of the boss will be the default of his mob type.
 GUI_RANDOMSPAWN: RandomSpawn
 GUI_RANDOMSPAWN_LORE: Manage the automatic spawn of the boss around the world.
 GUI_CHANCE: Set the chance with which the boss can spawn in the world.

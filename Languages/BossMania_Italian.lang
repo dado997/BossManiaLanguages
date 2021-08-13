@@ -113,6 +113,14 @@ GUI_THUNDER_CONDITION: Se abilitata, Il boss puo' fare questo solo quanto tuona.
 GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato da un arco.
 GUI_MELEE_DAMAGE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato corpo a corpo.
 GUI_TARGET_TYPE: §eTipo di target.
+GUI_AGGESSIVE: Aggressivo
+GUI_AGGRESSIVE_LORE: §eIl boss attacchera' i player.
+GUI_NEUTRAL: Neutrale
+GUI_NEUTRAL_LORE: §eIl boss attacchera' i player solo se loro avranno colpito il boss.
+GUI_PACIFIC: Pacifico
+GUI_PACIFIC_LORE: §eIl boss non attacchera' i player.
+GUI_DEFAULT: Predefinito
+GUI_DEFAULT_LORE: §eL'ia del boss sara' quella predefinita del tipo di mob.
 GUI_RANDOMSPAWN: Spawn casuale
 GUI_RANDOMSPAWN_LORE: Gestisci lo spawn casuale del boss.
 GUI_CHANCE: Imposta la chance con il quale il boss spawna automaticamente.
