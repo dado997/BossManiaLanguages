@@ -6,6 +6,8 @@ GUI_SEARCH: Cerca
 GUI_SEARCH_LORE: Clicca per cercare
 GUI_REMOVE: Rimuovi
 GUI_REMOVE_LORE: Rimuovi il boss.
+GUI_COPY: Copia
+GUI_COPY_LORE: Crea una copia del boss.
 GUI_CONFIRM: Conferma
 GUI_CONFIRM_LORE: §7Clicca per confermare.
 GUI_ABORT: Annulla
