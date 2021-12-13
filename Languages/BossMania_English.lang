@@ -66,6 +66,8 @@ GUI_CHANCES_LORE: §aThe chances for the boss to execute one of his skills
 GUI_MAX_BOSSES_FOR_CHUNK: MaxBossesForChunk
 GUI_MAX_BOSSES_FOR_CHUNKLORE: Set how many bosses can spawn with randomSpawns in a chunk
 GUI_MAX_BOSSES_FOR_CHUNKLORE2: If you don't want to set a limit, type 0.
+GUI_MAX_BOSSES_FOR_WORLD: MaxBossesForWorld
+GUI_MAX_BOSSES_FOR_WORLDLORE: Set how many bosses can spawn with randomSpawns in a world
 GUI_NO_ARMOR: NO ARMOR
 GUI_NO_MAIN_ITEM: NO ITEM IN MAIN HAND
 GUI_NO_OFF_ITEM: NO ITEM IN OFF HAND
