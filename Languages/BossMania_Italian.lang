@@ -87,6 +87,10 @@ GUI_LEFT_CLICK_TOTYPE_RADIUS: §aClick sinistro per scrivere in chat il raggio.
 GUI_RIGHT_CLICK_TOTYPE_TARGET: §aClick destro per scrivere in chat il bersaglio.
 GUI_LEFT_CLICK_TOTYPE_VOLUME: §aClick sinistro per scrivere in chat il volume.
 GUI_RIGHT_CLICK_TOTYPE_PITCH: §aClick destro per scrivere in chat l'intonazione.
+GUI_LEFT_CLICK_TOTYPE_EXECUTEDWHEN: §aTasto sinistro per cambiare quando dovrebbe essere eseguita la skill.
+GUI_RIGHT_CLICK_TOTYPE_TIMER: §aTasto destro per modificare il timer per la skill.
+GUI_ALWAYS_EXPLAINATION: §c*Questo trigger fara' eseguire la skill quando il boss spawna, viene colpito, fa una skill e quando muore. Non eseguira' la skill ogni secondo.
+GUI_TIMER: §aLa skill verra' eseguita ogni §e%seconds% §asecondi
 GUI_Press_Q_TO_REMOVE: §cPremi Q per rimuovere il drop.
 GUI_Press_Q_TO_REMOVESKILL: §cPremi Q per rimuovere l'abilita'.
 GUI_Press_Q_TO_REMOVESOUND: §cPremi Q per rimuovere il suono.
