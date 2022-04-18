@@ -36,6 +36,8 @@ GUI_EQUIPMENT: Equipment
 GUI_EQUIPMENT_LORE: Manage the equipment of the boss.
 GUI_DROPS: Drops 
 GUI_DROPS_LORE: Manage the drops of the boss.
+GUI_MAX_DROPS: §eMaxDrops
+GUI_MAX_DROPS_LORE: Set the maximum drops that the boss can drop when he dies.
 GUI_DROPPEDMONEY: Dropped money
 GUI_AVAIBLE: §cAvaible only in custom skills.
 GUI_UNAVAIBLE: §cUnavaible
