@@ -29,7 +29,7 @@ GUI_SPAWN_CONDITIONS_LORE2: Если вы добавите условие спа
 GUI_SPAWN_CONDITIONS_LORE3: Команда /bm spawn пропускает условия.
 GUI_SKILL: Умения
 GUI_SKILL_LORE: Управление умениями босса.
-GUI_BOSSBAR_ENABLE: ЛКМ, чтобы включить босс-бар. (Версия сервера 1.9 или выше)
+GUI_BOSSBAR_ENABLE: ЛКМ, чтобы включить босс-бар. (Версия сервера 1.13.2 или выше)
 GUI_BOSSBAR_DISABLE: ЛКМ, чтобы включить босс-бар.
 GUI_CHANGE_BOSSBAR_COLOR: ПКМ, чтобы сменить цвет.
 GUI_CHANGE_BOSSBAR_STYLE: Нажмите Q для смены стиля.

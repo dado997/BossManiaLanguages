@@ -1,0 +1,198 @@
+GUI_PREVIOUS: Précédent
+GUI_PREVIOUS_LORE: Aller à la page précédente.
+GUI_NEXT: Suivant
+GUI_NEXT_LORE: Allez à la page suivante.
+GUI_SEARCH: Chercher
+GUI_SEARCH_LORE: Cliquez pour rechercher
+GUI_REMOVE: Supprimer
+GUI_REMOVE_LORE: Retirez le Boss.
+GUI_COPY: Copie
+GUI_COPY_LORE: Créez une copie du Boss.
+GUI_CONFIRM: Confirmer
+GUI_CONFIRM_LORE: §7Click pour confirmer
+GUI_ABORT: Avorter
+GUI_ABORT_LORE: §7Click pour Avorter
+GUI_BOSSES_LORE: Gérer les BOSS
+GUI_AUTOSPAWNS_LORE: Gérer les apparitions automatiques
+GUI_AUTOSPAWN_TELEPORT: Faites un clic droit pour vous téléporter.
+GUI_AUTOSPAWN_SETLOC: Définir l'emplacement de l'autospawn
+GUI_MAX_SPAWNABLE_BOSSES: Max de boss pouvant être générés
+GUI_MAX_SPAWNABLE_BOSSES_LORE: §eEn fixant cette limite, les boss ne pourront apparaître qu'à partir d'autospawn
+GUI_MAX_SPAWNABLE_BOSSES_LORE2: §euniquement si le nombre de boss générés sera inférieur à cette limite.
+GUI_MAX_SPAWNABLE_BOSSES_LORE3: §eSi vous ne voulez pas définir cette limite, définissez-la sur 0.
+GUI_ENABLED: Activer
+GUI_DISABLED: Desactiver
+GUI_CLICKTO_ENABLE: §aCliquez pour activer
+GUI_CLICKTO_DISABLE: §aCliquez pour §cdesactiver
+GUI_SET_DISPLAYNAME: §aFaites un clic droit pour saisir le nom d'affichage du chat.
+GUI_HOLOGRAMPLUGIN_REQUIRED: §cPour afficher un nom, vous devez avoir HolographicDisplays !
+GUI_VAULT_REQUIRED: §cPour définir de l'argent, vous devez disposer de Vault et d'un plugin économique !
+GUI_UNSET_DISPLAYNAME: §aAppuyez sur Q pour supprimer le nom d'affichage..
+GUI_CREATE: Créer
+GUI_CREATE_LORE: Créer un nouveau boss.
+GUI_CREATE_AUTOSPAWN_LORE: Créez une nouvelle génération automatique.
+GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aFaites un clic droit pour taper dans le chat les secondes par apparition
+GUI_EQUIPMENT: Equipement
+GUI_EQUIPMENT_LORE: Gérer l'équipement du Boss.
+GUI_DROPS: Drops 
+GUI_DROPS_LORE: Manage the drops of the boss.
+GUI_DROPPEDMONEY: Argent perdu
+GUI_AVAIBLE: §cDisponible uniquement dans les compétences personnalisées.
+GUI_UNAVAIBLE: §cIndisponible
+GUI_COMMAND_DROPS: Gérer les baisses de commandes. Les largages de commandes sont des commandes exécutées lorsque le boss meurt.
+GUI_COMMAND_REPLACE: Le mot %killer% sera remplacé par le nom du boss killer.
+GUI_ALL: §bLe mot §e%all% §bfera exécuter la commande à tous les joueurs qui ont frappé le boss.
+GUI_COMMAND_TOP_REPLACE: §bLe mot §e%topDamager% §bsera remplacé par le nom du plus haut responsable des dégâts.
+GUI_COMMAND_SECOND_REPLACE: §bLe mot §e%secondDamager% §bsera remplacé par le nom du deuxième plus haut attaquant.
+GUI_COMMAND_THIRD_REPLACE: §bLe mot §e%thirdDamager% §bsera remplacé par le nom du troisième plus gros attaquant.
+GUI_SPAWN_CONDITIONS: SpawnConditions
+GUI_SPAWN_CONDITIONS_LORE: Gérez les SpawnConditions du boss.
+GUI_SPAWN_CONDITIONS_LORE2: Si vous ajoutez une condition d'apparition, le boss ne peut apparaître que s'il respecte la condition.
+GUI_SPAWN_CONDITIONS_LORE3: La commande /bm spawn contourne les conditions.
+GUI_SKILL: Compétences
+GUI_SKILL_LORE: Gérer les compétences du Boss.
+GUI_BOSSBAR_ENABLE: Faites un clic gauche pour activer la barre de boss. (nécessite un serveur 1.13.2 ou supérieur)
+GUI_BOSSBAR_DISABLE: Faites un clic gauche pour désactiver la barre de boss.
+GUI_CHANGE_BOSSBAR_COLOR: Faites un clic droit pour changer de couleur.
+GUI_CHANGE_BOSSBAR_STYLE: Appuyez sur Q pour changer de style.
+GUI_DESPAWNAFTER: DespawnAfter
+GUI_DESPAWNAFTER_VALUE: §eFaire disparaître après %value% secondes.
+GUI_DESPAWNAFTER_LORE: Cette option vous permet de définir un compte à rebours.
+GUI_DESPAWNAFTER_LORE2: Lorsque ce compte à rebours est terminé, le boss disparaît.
+GUI_DESPAWNAFTER_LORE3: Si le boss subit des dégâts, le compte à rebours est réinitialisé.
+GUI_DESPAWNAFTER_LORE4: Si vous ne souhaitez pas activer ce compte à rebours, définissez sa valeur sur 0.
+GUI_CHANCES: Chances
+GUI_CHANCES_LORE: §aLes chances pour le Boss d'exécuter une de ses compétences
+GUI_MAX_BOSSES_FOR_CHUNK: MaxBossesForChunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE: Définissez le nombre de boss pouvant apparaître avec des apparitions aléatoires en un seul chunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE2: Si vous ne souhaitez pas définir de limite, saisissez 0.
+GUI_MAX_BOSSES_FOR_WORLD: MaxBossesForWorld
+GUI_MAX_BOSSES_FOR_WORLDLORE: Définissez le nombre de boss pouvant apparaître avec des apparitions aléatoires dans un monde
+GUI_NO_ARMOR: PAS D'ARMURE
+GUI_NO_MAIN_ITEM: AUCUN ARTICLE EN MAIN PRINCIPALE
+GUI_NO_OFF_ITEM: AUCUN ARTICLE EN MAIN
+GUI_BACK: Retour
+GUI_CLICK_TO_CHANGE: Cliquez pour changer.
+GUI_LEFT_CLICK_TO_CHANGE: Clic gauche pour changer.
+GUI_CLICK_TO_CHOOSE: Cliquez pour choisir le type.
+GUI_SET_NOTHING: NE RIEN REGLER
+GUI_ADD: Ajouter
+GUI_DROP_ADD_LORE: Ajoutez un drop.
+GUI_SKILL_ADD_LORE: Ajoutez une competence.
+GUI_CLICK_TO_ADD: §aClic gauche pour ajouter.
+GUI_CLICK_TO_REMOVE: §cFaites un clic droit pour supprimer.
+GUI_CLICK_TO_ADD_PERCENTAGE: §aClic gauche pour ajouter un pourcentage.
+GUI_CLICK_TO_REMOVE_PERCENTAGE: §cFaites un clic droit pour supprimer le pourcentage.
+GUI_LEFT_CLICK_TOTYPE_RADIUS: §aCliquez avec le bouton gauche pour saisir le rayon de discussion.
+GUI_RIGHT_CLICK_TOTYPE_TARGET: §aFaites un clic droit pour saisir la cible du chat.
+GUI_LEFT_CLICK_TOTYPE_VOLUME: §aCliquez avec le bouton gauche pour saisir le volume du chat.
+GUI_RIGHT_CLICK_TOTYPE_PITCH: §aFaites un clic droit pour saisir le pitch du chat.
+GUI_Press_Q_TO_REMOVE: §cAppuyez sur Q pour supprimer la chute.
+GUI_Press_Q_TO_REMOVESKILL: §cAppuyez sur Q pour supprimer la compétence.
+GUI_Press_Q_TO_REMOVESOUND: §cAppuyez sur Q pour supprimer le son.
+GUI_PRESS_SHIFT_TO_MANAGE: §cAppuyez sur Maj+Clic droit/Maj+Clic gauche pour gérer les conditions.
+GUI_Press_Q_TO_REMOVEBOSS: §cAppuyez sur Q pour supprimer le boss.
+GUI_PRESSQ_TO_TYPE: §eAppuyez sur Q pour saisir le chat.
+GUI_LEFT_TO_TYPE: §eFaites un clic gauche pour taper dans le chat la chance.
+GUI_RIGHT_TO_TYPE: Faites un clic droit pour taper dans le chat la chance.
+GUI_GO_UPTOMAX: §eSi vous souhaitez définir une valeur supérieure à %max%, modifiez le %value%
+GUI_GO_UPTOMAX2: §edans le fichier spigot.yml et redémarrez le serveur (ne rechargez pas).
+GUI_LEFT_TO_TYPE_LEVEL: §eFaites un clic gauche pour taper dans le chat le niveau.
+GUI_LEFT_TO_TYPE_ATTRIBUTE: §eCliquez avec le bouton gauche pour saisir dans le chat l'attribut.
+GUI_RIGHT_CLICK_TO_DEFAULT: §eFaites un clic droit pour définir la valeur par défaut.
+GUI_LEFT_TO_TYPE_QUANTITY: §eFaites un clic gauche pour taper dans le chat la quantité.
+GUI_RIGHT_TO_TYPE_QUANTITY: §eFaites un clic droit pour taper dans le chat la quantité.
+GUI_ENCHANTMENTS: §cAppuyez sur Maj+Clic droit/Maj+Clic gauche pour gérer les enchantements.
+GUI_CLICK_ENCHANTMENTS: §cCliquez pour gérer les enchantements.
+GUI_SETININVENTORY: §cSi cette option est activée, le drop sera directement ajouté dans l'inventaire du boss killer.
+GUI_ACTIONS: Cliquez pour gérer les actions exécutées.
+GUI_ATTRIBUTES: Les attributs
+GUI_HEALTH: §eSanté
+GUI_DAMAGE: §eDommage
+GUI_MOVEMENT_SPEED: §eVitesse de mouvement
+GUI_FOLLOW_RANGE: §eRange du Boss
+GUI_KNOCKBACK_RESISTANCE: §eRésistance au recul
+GUI_IMMUNE_TO_FIRE: §eImmunisé au feu
+GUI_IMMUNE_TO_EXPLOSIONS: §eInsensible aux explosions
+GUI_IMMUNE_TO_PROJECTILES: §eImmunisé aux projectiles
+GUI_IMMUNE_TO_SWEEP: §eImmunisé aux attaques de balayage (nécessite 1.12+)
+GUI_DAY_CONDITION: Si activé, le Boss ne peut le faire que pendant le jour.
+GUI_NIGHT_CONDITION: Si activé, le Boss ne peut le faire que pendant la nuit.
+GUI_RAIN_CONDITION: S'il est activé, le Boss ne peut le faire que lorsqu'il pleut.
+GUI_THUNDER_CONDITION: S'il est activé, le boss ne peut le faire que lorsque le tonnerre est tonitruant.
+GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Si activé, le boss ne peut le faire que si ses derniers dégâts reçus provenaient d'une flèche.
+GUI_MELEE_DAMAGE_CONDITION: S'il est activé, le boss ne peut le faire que si ses derniers dégâts reçus étaient au corps à corps.
+GUI_TARGET_TYPE: §eType de cible
+GUI_AI_TYPE: §eType d'IA
+GUI_AGGESSIVE: Aggressive
+GUI_AGGRESSIVE_LORE: §eLe boss attaquera les autres joueurs.
+GUI_NEUTRAL: Neutre
+GUI_NEUTRAL_LORE: §eLe boss n'attaquera les autres joueurs que s'ils l'attaquent.
+GUI_PACIFIC: Pacifique
+GUI_PACIFIC_LORE: §eLe boss n'attaquera pas les joueurs.
+GUI_DEFAULT: Default
+GUI_DEFAULT_LORE: §eL'IA du boss sera la valeur par défaut de son type de mob.
+GUI_RANDOMSPAWN: RandomSpawn
+GUI_RANDOMSPAWN_LORE: Gérez le spawn automatique du boss dans le monde entier.
+GUI_CHANCE: Définissez la chance avec laquelle le boss peut apparaître dans le monde.
+GUI_ALLOWED_WORLD: Mondes autorisés
+GUI_ALLOWED_WORLD_LORE: Définissez les mondes avec lesquels le boss est autorisé à apparaître.
+GUI_ALLOWED_BIOMES: Biomes autorisés
+GUI_ALLOWED_BIOMES_LORE: Définissez les biomes avec lesquels le boss est autorisé à apparaître dans les mondes.
+GUI_ALL_BIOMES_ALLOWED: TousBiomesAutorisés
+GUI_ALL_BIOMES_ALLOWED_LORE: Si cette option est activée, le boss sera autorisé à apparaître dans tous les biomes.
+GUI_UNAVAILABLE: §cIndisponible pour ce mob.
+GUI_ISBABY: §eEstBébé
+GUI_PREVENTSPLIT: §eEmpêcherSplit
+GUI_PREVENTSUNBURN: §eEmpêcher les brûlures du soleil
+GUI_PREVENTTELEPORT: §eEmpêcher la téléportation
+GUI_GLOWING: §eBrillant (nécessite 1.9+)
+GUI_DISABLE_SOUNDS: §eDésactiver les sons par défaut (nécessite 1.10+)
+GUI_DISABLE_SOUNDS_LORE: Cette option vous permet de désactiver les sons par défaut des mobs.
+GUI_SOUNDS: Sons
+GUI_ONSPAWNSOUNDS: OnSpawnSounds
+GUI_ONDAMAGESOUNDS: OnDamageSounds
+GUI_ONEXECUTESKILLSOUNDS: OnExecuteSkillSounds
+GUI_ONDEATHSOUNDS: OnDeathSounds
+GUI_SOUNDS_LORE: Gérer les sons émis par le Boss.
+GUI_SOUNDSONSPAWN: Gérez les sons émis par le boss lors de son apparition.
+GUI_SOUNDSONDEATH: Gérez les sons émis par le boss lors de sa mort.
+GUI_SOUNDSONDAMAGE: Gérez les sons émis par le boss lorsqu'il subit des dégâts.
+GUI_SOUNDSONEXECUTE: Gérez les sons émis par le boss lorsqu'il exécute une compétence.
+GUI_MIGRATION: Import Data
+GUI_MIGRATION_LORE: §aDepuis le plugin %plugin%
+GUI_MIGRATION_LORE2: Vos Boss seront supprimés et le serveur s'arrêtera !
+GUI_MIGRATION_LORE3: Après cela, veuillez supprimer le plugin %plugin%
+CONSOLE_CANNOT_USE: §cLa console ne peut pas utiliser cette commande !
+NO_PERMISSION: §cVous n'êtes pas autorisé à effectuer cette action !
+COMMAND_INVALID_ARGS: §cArguments invalides !
+COMMAND_NOTFOUND: §cCommande non trouvée!
+COMMAND_HINT_HELP: §7Tapez chat /bossmania pour voir toutes les commandes.
+BOSS_ALREADY_EXISTS: §cUn boss avec ce nom existe déjà !
+BOSS_DOESNT_EXISTS: §cUn boss avec ce nom n'existe pas !
+BOSS_SKILL_DOESNTEXISTS: §cUne compétence avec ce nom n'existe pas !
+BOSS_ADDED_SKILL: §aCompétence ajoutée avec succès au boss %boss% avec cible %target%
+AUTOSPAWN_ALREADY_EXISTS: §cUn autospawn avec ce nom existe déjà !
+AUTOSPAWN_DOESNT_EXISTS: §cUn autospawn avec ce nom n'existe pas !
+TYPE_DOESNT_EXISTS: §cCe type de mobs n'existe pas !
+CHANCE_0: §cLa chance ne peut pas être 0 !
+CHANCE_100: §cLa chance ne peut pas être supérieure à 100 % !
+SIZE_REQUIRED: §cPour créer un boss avec le type mob %mob%, vous devez spécifier la taille.
+SIZE_TOO_BIG: §cLa taille ne peut pas dépasser 22 !
+CREATED_BOSS: §aCréation réussie du Boss §e%boss%
+CREATED_AUTOSPAWN: §aL'autospawn a été créé avec succès §e%autospawn%
+BOSS_SPAWNED: §aA généré le boss avec succès §e%boss%
+KILLED_ALL_BOSSES: §aVous avez réussi à tuer tous les boss.
+KILLED_ALL_BOSSES_OF: §aTuer avec succès tous les boss du type §e%type%.
+INVALID_NUMBER: §cNuméro invalide!
+INVALID_COORDS: §cCoordonnées invalides !
+CONSOLE_SPEC: §cLa console doit spécifier les coordonnées !
+INVALID_AUTOSPAWN: §cEmplacement ou entités non valides ! Veuillez vérifier l'autospawn et réessayer.
+INVALID_TYPE: §cTexte invalide !
+INVALID_TARGET: §cCible invalide!
+TYPE_NOT_ALLOWED: §cAVERTISSEMENT L'entité §7%entitytype% §cn'est pas autorisé sur un serveur §7%version%§c.
+SETTED_HEALTH: §aSanté imposée avec succès %health% pour le Boss %boss%
+SETTED_DAMAGE: §aDommages imposés avec succès %damage% pour le Boss %boss%
+REMOVED_AUTOSPAWN: §aL'autospawn a été supprimé avec succès §e%autospawn%
+PLUGIN_RELOADED: §aPlugin rechargé avec succès !
+REMOVED_BOSS: §aVous avez supprimé le boss avec succès §e%boss%
