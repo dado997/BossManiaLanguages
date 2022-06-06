@@ -138,6 +138,8 @@ GUI_PACIFIC: Pacifico
 GUI_PACIFIC_LORE: §eIl boss non attacchera' i player.
 GUI_DEFAULT: Predefinito
 GUI_DEFAULT_LORE: §eL'ia del boss sara' quella predefinita del tipo di mob.
+GUI_DEATHMESSAGE: Messaggio alla morte
+GUI_DEATHMESSAGE_LORE: Messaggio mandato ai player quando il boss muore abilitato §e
 GUI_RANDOMSPAWN: Spawn casuale
 GUI_RANDOMSPAWN_LORE: Gestisci lo spawn casuale del boss.
 GUI_CHANCE: Imposta la chance con il quale il boss spawna automaticamente.
