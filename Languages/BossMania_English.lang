@@ -150,6 +150,8 @@ GUI_PACIFIC: Pacific
 GUI_PACIFIC_LORE: §eThe boss will not attack players.
 GUI_DEFAULT: Default
 GUI_DEFAULT_LORE: §eThe ai of the boss will be the default of his mob type.
+GUI_DEATHMESSAGE: DeathMessage
+GUI_DEATHMESSAGE_LORE: Message send to players when boss dies enabled §e
 GUI_RANDOMSPAWN: RandomSpawn
 GUI_RANDOMSPAWN_LORE: Manage the automatic spawn of the boss around the world.
 GUI_CHANCE: Set the chance with which the boss can spawn in the world.
