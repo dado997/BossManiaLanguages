@@ -125,11 +125,17 @@ GUI_IMMUNE_TO_PROJECTILES: §eImmune ai proiettili
 GUI_IMMUNE_TO_SWEEP: §eImmune ai colpi a spazzata (Richiede 1.12+)
 GUI_DAY_CONDITION: Se abilitata, Il boss puo' fare questo solo quando e' giorno.
 GUI_NIGHT_CONDITION: Se abilitata, Il boss puo' fare questo solo quando e' notte.
+GUI_NOT_IN_REGION: Se abilitata, il boss puo' farlo solo se non si trova nella regione selezionata. (Richiede WorldGuard)
+GUI_IN_REGION: Se abilitata, il boss puo' farlo solo se si trova nella regione selezionata. (Richiede WorldGuard)
 GUI_RAIN_CONDITION: Se abilitata, Il boss puo' fare questo solo quando piove.
 GUI_THUNDER_CONDITION: Se abilitata, Il boss puo' fare questo solo quanto tuona.
 GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato da un arco.
 GUI_MELEE_DAMAGE_CONDITION: Se abilitata, Il boss puo' fare questo solo quando l'ultimo danno ricevuto dal boss e' stato corpo a corpo.
 GUI_TARGET_TYPE: §eTipo di target.
+GUI_AI_TYPE: §eTipo di I.A
+GUI_ATTACKED_BY_MOBS: §eViene attaccato dai mob
+GUI_ATTACKED_BY_MOBS_LORE: Se abilitato, Il boss verra' attaccato dai solo se li colpisce, come succede con i mob vanilla.
+GUI_ATTACKED_BY_MOBS_LORE2: (Vengono contati anche gli npc impostati per attaccare i boss)
 GUI_AGGESSIVE: Aggressivo
 GUI_AGGRESSIVE_LORE: §eIl boss attacchera' i player.
 GUI_NEUTRAL: Neutrale
