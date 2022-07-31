@@ -50,9 +50,12 @@ GUI_UNAVAIBLE: §cUnavaible
 GUI_COMMAND_DROPS: Manage the command drops. Command drops are commands executed when the boss die.
 GUI_COMMAND_REPLACE: §bThe word §e%killer% §bwill be replaced by the name of the boss killer.
 GUI_ALL: §bThe word §e%all% §bwill make command be executed to all players who hitted the boss.
-GUI_COMMAND_TOP_REPLACE: §bThe word §e%topDamager% §bwill be replaced by the name of the top damager.
-GUI_COMMAND_SECOND_REPLACE: §bThe word §e%secondDamager% §bwill be replaced by the name of the second top damager.
-GUI_COMMAND_THIRD_REPLACE: §bThe word §e%thirdDamager% §bwill be replaced by the name of the third top damager.
+GUI_COMMAND_TOP_REPLACE: §bThe word §e%1thDamager% §bwill be replaced by the name of the top damager.
+GUI_COMMAND_SECOND_REPLACE: §bThe word §e%2thDamager% §bwill be replaced by the name of the second top damager.
+GUI_COMMAND_THIRD_REPLACE: §bThe word §e%3thDamager% §bwill be replaced by the name of the third top damager.
+GUI_COMMAND_TOP_DAMAGE_REPLACE: §bThe word §e%1thDamage% §bwill be replaced by the damage dealt by the top damager.
+GUI_COMMAND_SECOND_DAMAGE_REPLACE: §bThe word §e%2thDamage% §bwill be replaced by the damage dealt by the second top damager.
+GUI_COMMAND_THIRD_DAMAGE_REPLACE: §bThe word §e%3thDamage% §bwill be replaced by the damage dealt by the third top damager.
 GUI_SPAWN_CONDITIONS: SpawnConditions
 GUI_SPAWN_CONDITIONS_LORE: Manage the SpawnConditions of the boss.
 GUI_SPAWN_CONDITIONS_LORE2: If you add a spawn condition, the boss can spawn only if it respect the condition.

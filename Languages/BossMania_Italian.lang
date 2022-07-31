@@ -44,9 +44,12 @@ GUI_UNAVAIBLE: §cNon disponibile
 GUI_COMMAND_DROPS: Gestisci i drop comandi. I drop comandi sono comandi eseguiti quando il boss muore.
 GUI_COMMAND_REPLACE: La parola %killer% verra' rimpiazzata dal nome dell'uccisore del boss.
 GUI_ALL: §bLa parola §e%all% §bfara' in modo che il comando venga eseguito per ogni player che ha colpito il boss.
-GUI_COMMAND_TOP_REPLACE: §bLa parola §e%topDamager% §bverra sostituita col nome del miglior danneggiatore.
-GUI_COMMAND_SECOND_REPLACE: §bLa parola §e%secondDamager% §bverra sostituita col nome del secondo miglior danneggiatore.
-GUI_COMMAND_THIRD_REPLACE: §bLa parola §e%thirdDamager% §bverra sostituita col nome del terzo miglior danneggiatore.
+GUI_COMMAND_TOP_REPLACE: §bLa parola §e%1thDamager% §bverra sostituita col nome del miglior danneggiatore.
+GUI_COMMAND_SECOND_REPLACE: §bLa parola §e%2thDamager% §bverra sostituita col nome del secondo miglior danneggiatore.
+GUI_COMMAND_THIRD_REPLACE: §bLa parola §e%3thDamager% §bverra sostituita col nome del terzo miglior danneggiatore.
+GUI_COMMAND_TOP_DAMAGE_REPLACE: §bLa parola §e%1thDamage% §bverra sostituita col danno inflitto dal miglior danneggiatore.
+GUI_COMMAND_SECOND_DAMAGE_REPLACE: §bLa parola §e%2thDamage% §bverra sostituita col danno inflitto dal secondo miglior danneggiatore.
+GUI_COMMAND_THIRD_DAMAGE_REPLACE: §bLa parola §e%3thDamage% §bverra sostituita col danno inflitto dal terzo miglior danneggiatore.
 GUI_SPAWN_CONDITIONS: Condizioni di spawn
 GUI_SPAWN_CONDITIONS_LORE: Gestisci le Condizione di Spawn del boss.
 GUI_SPAWN_CONDITIONS_LORE2: Se aggiungi una Condizione di Spawn, il boss potrà spawnare solo se rispetta le condizioni.
