@@ -104,7 +104,7 @@ GUI_LEFT_CLICK_TOTYPE_RADIUS: §aLeft click to type in chat radius.
 GUI_RIGHT_CLICK_TOTYPE_TARGET: §aRight click to change target.
 GUI_LEFT_CLICK_TOTYPE_EXECUTEDWHEN: §aLeft click to change when the skill should be executed.
 GUI_RIGHT_CLICK_TOTYPE_TIMER: §aRight click to type the timer for the skill.
-GUI_ALWAYS_EXPLAINATION: §c*this trigger will make boss execute skill when it spawns, gets hit, does skill and when dies. He won't do skill every second.
+GUI_ALWAYS_EXPLAINATION: §c*this trigger will make boss execute skill when it spawns, gets hit and when dies. He won't do skill every second.
 GUI_TIMER: §aThe skill will be executed every §e%seconds% §aseconds
 GUI_LEFT_CLICK_TOTYPE_VOLUME: §aLeft click to type in chat volume.
 GUI_RIGHT_CLICK_TOTYPE_PITCH: §aRight click to type in chat pitch.
