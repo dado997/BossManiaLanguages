@@ -176,6 +176,8 @@ GUI_SOUNDSONSPAWN: Gestisci i suoni fatti dal boss quando spawna.
 GUI_SOUNDSONDEATH: Gestisci i suoni fatti dal boss quando muore.
 GUI_SOUNDSONDAMAGE: Gestisci i suoni fatti dal boss quando riceve danno.
 GUI_SOUNDSONEXECUTE: Gestisci i suoni fatti dal boss quando esegue una skill.
+GUI_CUSTOMATTACK: §eAttacco custom (Richiede il plugin Citizens installato)
+GUI_CUSTOMATTACKLORE: §7Se abilitato, gli attacchi del boss saranno gestiti dal plugin, abilita solo se usi le due opzioni accanto.
 GUI_MIGRATION: Importa i dati
 GUI_MIGRATION_LORE: §aDal plugin %plugin%
 GUI_MIGRATION_LORE2: I tuoi boss verranno rimossi e il server si spegnera'!

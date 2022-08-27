@@ -189,6 +189,8 @@ GUI_SOUNDSONSPAWN: Manage sounds made by the boss when it spawns.
 GUI_SOUNDSONDEATH: Manage sounds made by the boss when it deaths.
 GUI_SOUNDSONDAMAGE: Manage sounds made by the boss when it receive damage.
 GUI_SOUNDSONEXECUTE: Manage sounds made by the boss when it executes a skill.
+GUI_CUSTOMATTACK: §eCustomAttack (Citizens plugin required)
+GUI_CUSTOMATTACKLORE: §7If enabled boss attacks will handled by the plugin, enable only when attack speed/range are modified
 GUI_MIGRATION: Import Data
 GUI_MIGRATION_LORE: §aFrom the plugin %plugin%
 GUI_MIGRATION_LORE2: Your bosses will be removed and the server will shutdown!
