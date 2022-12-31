@@ -225,3 +225,4 @@ SETTED_DAMAGE: §aSuccessfully imposted damage %damage% to the boss %boss%
 REMOVED_AUTOSPAWN: §aSuccessfully removed the autospawn §e%autospawn%
 PLUGIN_RELOADED: §aPlugin reloaded successfully!
 REMOVED_BOSS: §aSuccessfully removed the boss §e%boss%
+TRACKER_CREATED: §aSuccessfully created a tracker for the boss §e%boss%, this compass will always point at this type of boss

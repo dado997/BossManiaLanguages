@@ -215,3 +215,4 @@ SETTED_DAMAGE: §aImpostato con successo il danno %damage% al boss %boss%
 REMOVED_AUTOSPAWN: §aRimosso con successo l'autospawn §e%autospawn%
 PLUGIN_RELOADED: §aPlugin ricaricato con successo!
 REMOVED_BOSS: §aRimosso con successo il boss §e%boss%
+TRACKER_CREATED: §aHai creato una bussola per il boss§e%boss%, la bussola punterà sempre verso i boss di questo tipo.

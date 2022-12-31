@@ -1,0 +1,226 @@
+GUI_PREVIOUS: Anterior
+GUI_PREVIOUS_LORE: Ir a la página anterior 
+GUI_NEXT: Siguiente 
+GUI_NEXT_LORE: Ir a la página siguiente.
+GUI_SEARCH: Buscar
+GUI_SEARCH_LORE: Click para buscar
+GUI_REMOVE: Quitar
+GUI_REMOVE_LORE: Quita el jefe.
+GUI_COPY: Copiar
+GUI_COPY_LORE: Crea una copia del jefe
+GUI_CONFIRM: Confirmar
+GUI_CONFIRM_LORE: §7Click para confirmar
+GUI_ABORT: Abortar
+GUI_ABORT_LORE: §7Click para abortar
+GUI_BOSSES_LORE: Gestionar los jefes
+GUI_AUTOSPAWNS_LORE: Gestionar la generación automática
+GUI_AUTOSPAWN_TELEPORT: Click para teletransporte.
+GUI_AUTOSPAWN_SETLOC: Configura la localización del generador automático
+GUI_MAX_SPAWNABLE_BOSSES: Maximos Jefes Generados
+GUI_MAX_SPAWNABLE_BOSSES_LORE: §eConfigurando este límite, los jefes solo harán spawn desde el autospawn
+GUI_MAX_SPAWNABLE_BOSSES_LORE2: §esolo si el número de jefes generados es menor que este límite.
+GUI_MAX_SPAWNABLE_BOSSES_LORE3: §eSi no quieres esté límite, ponlo a 0
+GUI_ENABLED: Activo
+GUI_DISABLED: Desactivado
+GUI_CLICKTO_ENABLE: §aClick para activar
+GUI_CLICKTO_DISABLE: §aClick para §cdesactivar
+GUI_SET_DISPLAYNAME: §aClick derecho para escribir el nombre a mostrar.
+GUI_HOLOGRAMPLUGIN_REQUIRED: §c¡Para mostrar un nombre necesitas tener HolographicDisplays!
+GUI_VAULT_REQUIRED: §c¡Para configrar dinero, tienes que tener el plugin Vault and an economy!
+GUI_WORLDGUARD_REQUIRED: §c¡Para configurar esta opción, necesitas tener WorldGuard instalado!
+GUI_UNSET_DISPLAYNAME: §aPulsa Q para quitar DisplayName.
+GUI_NAME: §eNombre
+GUI_NAME_LORE: §eElige el nombre del objeto.
+GUI_INVALID_NAME: §c¡Nombre invalido! ¡No puedes usar caracteres especiales en el nombre del jefe!
+GUI_INVALID_AUTOSPAWN_NAME: §c¡Nombre invalido! ¡No puedes usar caracteres especiales en el nombre del jefe!
+GUI_CREATE: Crear
+GUI_CREATE_BOSS_LORE: Crea un nuevo jefe.
+GUI_CREATE_AUTOSPAWN_LORE: Crea una generación automática.
+GUI_CLICK_TO_MANAGE: §aClick izquierdo para gestionar el jefe
+GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aClick derecho para escribir en el chat los segundos por generación
+GUI_EQUIPMENT: Equipamientos 
+GUI_EQUIPMENT_LORE: Configura el equipamiento del jefe.
+GUI_DROPS: Drops
+GUI_DROPS_LORE: Configura los objetos que tirará el jefe al morir.
+GUI_MAX_DROPS: §eDrops Maximos
+GUI_MAX_DROPS_LORE: Configura el máximo de objetos que puede tirar el jefe al morir.
+GUI_DROPPEDMONEY: Drop de dinero
+GUI_AVAIBLE: §cSolo disponible en habilidades personalizadas.
+GUI_UNAVAIBLE: §cNo disponible
+GUI_COMMAND_DROPS: Configura lis comandos de caída. Los comandos de caída son comandos ejecutados cuando el jefe muere.
+GUI_COMMAND_REPLACE: §bLa palabra §e%killer% §bserá reemplazada por el nombre del ejecutor del jefe.
+GUI_ALL: §bLa palabra §e%all% §bhará que se ejecute el comando a todos los jugadores que golpearon al jefe.
+GUI_COMMAND_TOP_REPLACE: §bLa palabra §e%1thDamager% §bserá reemplazada por el nombre del jugador que más daño haya hecho.
+GUI_COMMAND_SECOND_REPLACE: §bLa palabra §e%2thDamager% §bserá reemplazada por el nombre del segundo jugador que más daño haya hecho.
+GUI_COMMAND_THIRD_REPLACE: §bLa palabra §e%3thDamager% §bserá reemplazada por el nombre del tercer jugador que más daño haya hecho.
+GUI_COMMAND_TOP_DAMAGE_REPLACE: §bLa palabra §e%1thDamage% §bserá reemplazada por el daño realizado por el jugador que más daño hizo.
+GUI_COMMAND_SECOND_DAMAGE_REPLACE: §bLa palabra §e%2thDamage% §bserá reemplazada por el daño realizado por el segundo jugador que más daño hizo.
+GUI_COMMAND_THIRD_DAMAGE_REPLACE: §bLa palabra §e%3thDamage% §bserá reemplazada por el daño realizado por el tercer jugador que más daño hizo.
+GUI_SPAWN_CONDITIONS: Condiciones De Generación
+GUI_SPAWN_CONDITIONS_LORE: Configura las CondicionesDeGeneración del jefe.
+GUI_SPAWN_CONDITIONS_LORE2: Si añades una condición de generación, el jefe solo puede aparecer si respeta esa condición.
+GUI_SPAWN_CONDITIONS_LORE3: El comando /bm spawn se salta las condiciones.
+GUI_SKILL: Habilidades 
+GUI_SKILL_LORE: Configura las habilidades del jefe.
+GUI_BOSSBAR_ENABLE: Click izquierdo para activar la barra del jefe (requiere un server versión 1.13.2 o superior)
+GUI_EXECUTEFORPLAYERS: Las habilidades serán ejecutadas en jugadores
+GUI_EXECUTEFORBOSS: habilidad ejecutada en el jefe
+GUI_BOSSBAR: Configura la barraDeJefe del jefe
+GUI_BOSSBAR_DISABLE: Click izquierdo para desactivar la BarraDeJefe.
+GUI_LEVEL: Nivel
+GUI_CHANGE_BOSSBAR_COLOR: Click para cambiar el color.
+GUI_CHANGE_BOSSBAR_STYLE: Click para cambiar el estilo.
+GUI_DESPAWNAFTER: Desaparecer Después De
+GUI_DESPAWNAFTER_VALUE: §eDesaparecer Después De %value%
+GUI_DESPAWNAFTER_LORE: Esta opción te permite configurar un temporizador para recargar.
+GUI_DESPAWNAFTER_LORE2: Cuando este tiempo acabe, el jefe desaparecerá.
+GUI_DESPAWNAFTER_LORE3: Si el jefe resulta dañado, el temporizador será reiniciando.
+GUI_DESPAWNAFTER_LORE4: Si no quieres activar esta cuenta atrás ponlo a 0.
+GUI_CHANCES: Probabilidad
+GUI_CHANCES_LORE: §aLa probabilidad de que el jefe realice una de sus habilidades
+GUI_MAX_BOSSES_FOR_CHUNK: Jefes Máximos Por Chunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE: Configura cuantos jefes pueden aparecer con  AparicionesAleatorias en un chunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE2: Si no quieres ponerle límite, pon 0.
+GUI_MAX_BOSSES_FOR_WORLD: JefesMáximosPorMundo
+GUI_MAX_BOSSES_FOR_WORLDLORE: Configura cuantos jefes pueden aparecer en un mundo
+GUI_MAX_BOSSES_FOR_REGION: JefesMáximosPorRegión
+GUI_MAX_BOSSES_FOR_REGIONLORE: Configura cuantos jefes pueden aparecer con AparicionesAleatorias en una región.
+GUI_NO_ARMOR: SIN ARMADURA
+GUI_NO_MAIN_ITEM: SIN OBJETO EN LA MANO PRINCIPAL
+GUI_NO_OFF_ITEM: SIN OBJETO EN LA MANO SECUNDARIA
+GUI_BACK: Atrás
+GUI_CLICK_TO_CHANGE: Click para cambiar.
+GUI_LEFT_CLICK_TO_CHANGE: Click izquierdo para cambiar.
+GUI_CLICK_TO_CHOOSE: Click para elegir el tipo.
+GUI_SET_NOTHING: NO PONER NADA
+GUI_ADD: Añadir
+GUI_BOSS_ADD_LORE: Añade un jefe.
+GUI_DROP_ADD_LORE: Añade un objeto de caída.
+GUI_SKILL_ADD_LORE: Añade una habilidad.
+GUI_CONDITION_ADD_LORE: Añade una condición.
+GUI_CLICK_TO_ADD: §aClick izquierdo para añadir.
+GUI_CLICK_TO_REMOVE: §cClick derecho para quitar.
+GUI_LEFT_CLICK_TOTYPE_RADIUS: §aClick izquierdo para escribir en el radio del chat.
+GUI_RIGHT_CLICK_TOTYPE_TARGET: §aClick derecho para cambiar el objetivo.
+GUI_LEFT_CLICK_TOTYPE_EXECUTEDWHEN: §aClick izquierdo para cambiar cuando se realizará la habilidad.
+GUI_RIGHT_CLICK_TOTYPE_TIMER: §aClick derecho para escribir el temporizador de las habilidades.
+GUI_ALWAYS_EXPLAINATION: §c*este desencadenador hara que el jefe realice sus habilidades cuando aparece, es golpeado ycuando muere. No realizá habilidades cada segundo.
+GUI_TIMER: §aLa habilidad se usará cada §e%seconds% §asegundos
+GUI_LEFT_CLICK_TOTYPE_VOLUME: §aClick izquierdo para escribir el volumen del chat.
+GUI_RIGHT_CLICK_TOTYPE_PITCH: §aCkick derecho para escribir el tono del chat.
+GUI_Press_Q_TO_REMOVE: §cPulsa  Q para quitar tirar.
+GUI_Press_Q_TO_REMOVESKILL: §cPulsa Q para quitar habilidad.
+GUI_Press_Q_TO_MANAGE: §aPulsa Q para gestionar la habilidad.
+GUI_Press_Q_TO_REMOVESOUND: §cPulsa Q para quitar sonido.
+GUI_PRESS_SHIFT_TO_MOVE: §cPulsa Shift + click izquierdo / Shift + click derecho para mover esto derecha o izquierda.
+GUI_Press_Q_TO_REMOVEBOSS: §cPulsa Q para quitar jefe.
+GUI_Press_Q_TO_REMOVEACTION: §cPulsa Q para quitar acción.
+GUI_PRESSQ_TO_TYPE: §ePulsa Q para escribir en el chat.
+GUI_LEFT_TO_TYPE: §eClick izquierdo para escribir en el chat la probabilidad.
+GUI_RIGHT_TO_TYPE: Click derecho para escribir en el chat la probabilidad.
+GUI_GO_UPTOMAX: §eSi quieres poner un valor mayor a %max%, modifica el %value%
+GUI_GO_UPTOMAX2: §een el archivo spigot.yml , y reinicia el server (no recargar).
+GUI_LEFT_TO_TYPE_LEVEL: §eClick izquierdo para escribir en el chat el nivel.
+GUI_LEFT_TO_TYPE_ATTRIBUTE: §eClick izquierdo para escribir en el chat el atributo.
+GUI_RIGHT_CLICK_TO_DEFAULT: §eClick derecho para poner un valor por defecto.
+GUI_LEFT_TO_TYPE_QUANTITY: §eClick izquierdo para escribir en el chat la cantidad.
+GUI_CLICK_ENCHANTMENTS: §cClick para gestionar encantamientos.
+GUI_RIGHT_CLICK_ENCHANTMENTS: §cClick derecho para gestionar encantamientos.
+GUI_SETININVENTORY: §cSi esta opción está activa, los objetos caídos del jefe serán directamente añadidos al inventario del ejecutor.
+GUI_ATTRIBUTES: Atributos
+GUI_HEALTH: §eVida
+GUI_DAMAGE: §eDaño
+GUI_MOVEMENT_SPEED: §eVelocidad de movimiento
+GUI_FOLLOW_RANGE: §eRango de visión
+GUI_KNOCKBACK_RESISTANCE: §eResistencia al empuje
+GUI_IMMUNE_TO_FIRE: §eInmune al fuego
+GUI_IMMUNE_TO_EXPLOSIONS: §eInmune a explosiones
+GUI_IMMUNE_TO_PROJECTILES: §eInmune a proyectiles
+GUI_IMMUNE_TO_SWEEP: §eInmune a barrido de ataques
+GUI_DAY_CONDITION: Si está activo, el jefe solo podrá hacer esto cuando sea de día.
+GUI_NIGHT_CONDITION: Si está activo, el jefe solo podrá hacer esto cuando sea de noche.
+GUI_NOT_IN_REGION: Si está activo, el jefe solo podrá hacer esto cuando no esté en la región seleccionada (Requiere WorldGuard)
+GUI_IN_REGION: Si está activo, el jefe solo podrá hacer esto cuando esté en la región seleccionada (Requiere WorldGuard)
+GUI_RAIN_CONDITION: Si está activo, el jefe solo podrá hacer esto cuando llueva.
+GUI_THUNDER_CONDITION: Si está activo, el jefe solo podrá hacer esto cuando haya una tormenta.
+GUI_DAMAGE_FROM_PROJECTILE_CONDITION: Si está activo, el jefe solo podrá hacer esto cuando el último daño recibido sea de una flecha.
+GUI_MELEE_DAMAGE_CONDITION: Si está activo, el jefe solo podrá hacer esto cuando el último daño recibido sea cuerpo a cuerpo.
+GUI_AI_TYPE: §eTipo de IA
+GUI_ATTACKED_BY_MOBS: §eEsAtacadoPorCriaturas
+GUI_ATTACKED_BY_MOBS_LORE: Si está activo, el jefe sera atacado por criaturas, SOLO si el les hace daño, como hacen las criaturas vainilla.
+GUI_ATTACKED_BY_MOBS_LORE2: (esto también cuenta NPCS para atacar criaturas)
+GUI_AGGESSIVE: Agresivo
+GUI_AGGRESSIVE_LORE: §eEl jefe atacará otros jugadores.
+GUI_NEUTRAL: Neutral
+GUI_NEUTRAL_LORE: §eEl jefe atacará a otros jugadores solo si ellos le atacan a el.
+GUI_PACIFIC: Pacifico
+GUI_PACIFIC_LORE: §eEl jefe no atacará a jugadores.
+GUI_DEFAULT: Por defecto
+GUI_DEFAULT_LORE: §eLa IA del jefe sera igual al tipo de mob.
+GUI_DEATHMESSAGE: MensajeDeMuerte
+GUI_DEATHMESSAGE_LORE: Mensaje enviado a los jugadores cuando el jefe muere activado §e
+GUI_RANDOMSPAWN: ApariciónAleatoria
+GUI_RANDOMSPAWN_LORE: Configura la aparición automática del jefe alrededor del mundo.
+GUI_CHANCE: Configura la probabilidad con la que el jefe puede aparecer en el mundo.
+GUI_ALLOWED_WORLD: Mundos permitidos
+GUI_ALLOWED_WORLD_LORE: Configura los mundos en los que el jefe tiene permitido aparecer.
+GUI_ALLOWED_BIOMES: Biomas permitidos
+GUI_ALLOWED_BIOMES_LORE: Configura los biomas en los que el jefe tiene permitido aparecer en los mundos.
+GUI_ALLOWED_REGIONS: Regiones permitidas
+GUI_ALLOWED_REGIONS_LORE: Configura las regiones de WorldGuard en las que el jefe tiene permitido aparecer.
+GUI_ALL_BIOMES_ALLOWED: TodosLosBiomasPermitidos
+GUI_ALL_BIOMES_ALLOWED_LORE: Si esta opción está activada, el jefe tendrá permitido aparecer en todos los biomas.
+GUI_UNAVAILABLE: §cNo disponible para esta criatura.
+GUI_ISBABY: §eEsBebe
+GUI_PREVENTSPLIT: §ePrevieneSeparación
+GUI_PREVENTSUNBURN: §ePrevieneQuemarPorSol
+GUI_PREVENTTELEPORT: §ePrevieneTeletransportación
+GUI_GLOWING: §eBrillante
+GUI_DISABLE_SOUNDS: §eDesactiva los sonidos por defecto
+GUI_DISABLE_SOUNDS_LORE: Esta opción te permite desactivar los sonidos por defecto de la criatura.
+GUI_SOUNDS: Sonidos
+GUI_ONSPAWNSOUNDS: SonidosEnAparición
+GUI_ONDAMAGESOUNDS: SonidosAlSerDañado
+GUI_ONEXECUTESKILLSOUNDS: SonidosAlRealizarHabilidades
+GUI_ONDEATHSOUNDS: SonidosAlMorir
+GUI_SOUNDS_LORE: Configura los sonidos realizados por el jefe.
+GUI_SOUNDSONSPAWN: Configura los sonidos realizados por el jefe cuando aparece.
+GUI_SOUNDSONDEATH: Configura los sonidos realizados por el jefe cuando muere.
+GUI_SOUNDSONDAMAGE: Configura los sonidos realizados por el jefe cuando recibe daño.
+GUI_SOUNDSONEXECUTE: Configura los sonidos realizados por el jefe cuando realiza una habilidad.
+GUI_CUSTOMATTACK: §eAtaquePersonalizado (requiere el plugin Citizens)
+GUI_CUSTOMATTACKLORE: §7Si está activolos ataques del jefe seran manejados por el plugin, activar solo cuando la velocidad de ataque/rango están modificados
+GUI_MIGRATION: Importar Datos
+GUI_MIGRATION_LORE: §aDesde el plugin %plugin%
+GUI_MIGRATION_LORE2: Tus jefes serán eliminados y el server se apagará.
+GUI_MIGRATION_LORE3: Después de eso, por favor, quita el plugin %plugin%
+CONSOLE_CANNOT_USE: §cLa consola no puede usar este comando.
+NO_PERMISSION: §cNo tienes permiso para realizar esa acción.
+COMMAND_INVALID_ARGS: §cArgumento inválido.
+COMMAND_NOTFOUND: §cComando no encontrado.
+COMMAND_HINT_HELP: §7Escribe en el chat §c/bossmania help §7para ver todos los comandos.
+BOSS_ALREADY_EXISTS: §cYa existe un jefe con ese nombre.
+SKILL_ALREADY_EXISTS: §cYa existe una habilidad con este nombre.
+BOSS_DOESNT_EXISTS: §cNo existe jefe con este nombre
+AUTOSPAWN_ALREADY_EXISTS: §cYa existe una generacion automática con este nombre.
+AUTOSPAWN_DOESNT_EXISTS: §cNo existe una generación automática con este nombre
+TYPE_DOESNT_EXISTS: §cNo existe este tipo de criatura.
+SIZE_REQUIRED: §cPara crear un jefe del tipo %mob%, necesitas especificar el tamaño.
+SIZE_TOO_BIG: §cEl tamaño no puede ser mayor a 22.
+CREATED_BOSS: §aCreado jefe correctamente §e%boss%
+CREATED_AUTOSPAWN: §aCreado generación automática correctamente §e%autospawn%
+GIVEN_EGG: §aHuevo de jefe dado correctamente §e%boss%
+CANT_FIND_PLAYER: §cJugador %player% no puede ser encontrado.
+BOSS_SPAWNED: §aGenerado jefe correctamente §e%boss%
+KILLED_ALL_BOSSES: §aMuertos todos los jefes.
+KILLED_ALL_BOSSES_OF: §aMuertos todos los jefes del tipo §e%type%.
+INVALID_NUMBER: §cNumero inválido.
+INVALID_COORDS: §cCoordenadas inválida.
+CONSOLE_SPEC: §cLa consola debe especificar coordenadas.
+INVALID_AUTOSPAWN: §cInvalid location or entities! Please, verify the autospawn and try again.
+TYPE_NOT_ALLOWED: §cATENCIÓN la entidad §7%entitytype% §cno esta permitida en un servidor §7%version%§c.
+SETTED_HEALTH: §aSalud impuesta con éxito %health% al jefe %boss%
+SETTED_DAMAGE: §aDaño impuesto con éxito %damage% al jefe %boss%
+REMOVED_AUTOSPAWN: §aAparición automática quitada con éxito §e%autospawn%
+PLUGIN_RELOADED: §aPlugin recargado correctamente.
+REMOVED_BOSS: §aJefe eliminado con éxito §e%boss%
