@@ -117,6 +117,10 @@ GUI_CLICK_ENCHANTMENTS: §cPremi per gestire gli incantamenti.
 GUI_SETININVENTORY: §cSe l'opzione e' abilitata, il drop verra' direttamente aggiunto nell'inventario del killer del boss.
 GUI_ACTIONS: Premi per gestire le azioni eseguite.
 GUI_ATTRIBUTES: Attributi
+GUI_GENERIC_ATTRIBUTES: §eAttributi generici
+GUI_GENERIC_ATTRIBUTES_LORE: §eClicca per modificare gli attributi generici
+GUI_MOB_ATTRIBUTES: §eAttributi dei mob
+GUI_MOB_ATTRIBUTES_LORE: §eClicca per modificare gli attributi correlati ai mob
 GUI_HEALTH: §eVita
 GUI_DAMAGE: §eDanno
 GUI_MOVEMENT_SPEED: §eVelocita' di movimento 

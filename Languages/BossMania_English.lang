@@ -128,6 +128,10 @@ GUI_CLICK_ENCHANTMENTS: §cClick to manage enchantments.
 GUI_RIGHT_CLICK_ENCHANTMENTS: §cRight click to manage enchantments.
 GUI_SETININVENTORY: §cIf this option is enabled, the drop will be directly added in the boss killer's inventory.
 GUI_ATTRIBUTES: Attributes
+GUI_GENERIC_ATTRIBUTES: §eGeneric attributes
+GUI_GENERIC_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
+GUI_MOB_ATTRIBUTES: §eMob attributes
+GUI_MOB_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
 GUI_HEALTH: §eHealth
 GUI_DAMAGE: §eDamage
 GUI_MOVEMENT_SPEED: §eMovement speed
@@ -225,4 +229,4 @@ SETTED_DAMAGE: §aSuccessfully imposted damage %damage% to the boss %boss%
 REMOVED_AUTOSPAWN: §aSuccessfully removed the autospawn §e%autospawn%
 PLUGIN_RELOADED: §aPlugin reloaded successfully!
 REMOVED_BOSS: §aSuccessfully removed the boss §e%boss%
-TRACKER_CREATED: §aSuccessfully created a tracker for the boss §e%boss%, this compass will always point at this type of boss
+TRACKER_CREATED: §aSuccessfully created a tracker for the boss §e%boss%, this compass will always point at this type of boss, (when they are alive in the same world as the player).
