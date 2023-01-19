@@ -129,7 +129,7 @@ GUI_RIGHT_CLICK_ENCHANTMENTS: §cRight click to manage enchantments.
 GUI_SETININVENTORY: §cIf this option is enabled, the drop will be directly added in the boss killer's inventory.
 GUI_ATTRIBUTES: Attributes
 GUI_GENERIC_ATTRIBUTES: §eGeneric attributes
-GUI_GENERIC_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
+GUI_GENERIC_ATTRIBUTES_LORE: §eClick to change the generic attributes
 GUI_MOB_ATTRIBUTES: §eMob attributes
 GUI_MOB_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
 GUI_HEALTH: §eHealth
@@ -180,6 +180,7 @@ GUI_ISBABY: §eIsBaby
 GUI_PREVENTSPLIT: §ePreventSplit
 GUI_PREVENTSUNBURN: §ePreventSunBurn
 GUI_PREVENTTELEPORT: §ePreventTeleport
+GUI_PREVENTEXPLOSION: §ePreventExplosion
 GUI_GLOWING: §eGlowing
 GUI_DISABLE_SOUNDS: §eDisable default sounds
 GUI_DISABLE_SOUNDS_LORE: This option allows you to disable default sounds of the mob.

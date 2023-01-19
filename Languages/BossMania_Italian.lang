@@ -118,7 +118,7 @@ GUI_SETININVENTORY: §cSe l'opzione e' abilitata, il drop verra' direttamente ag
 GUI_ACTIONS: Premi per gestire le azioni eseguite.
 GUI_ATTRIBUTES: Attributi
 GUI_GENERIC_ATTRIBUTES: §eAttributi generici
-GUI_GENERIC_ATTRIBUTES_LORE: §eClicca per modificare gli attributi generici
+GUI_GENERIC_ATTRIBUTES_LORE: §eClicca per modificare gli attributi che non dipendono dal tipo di mob
 GUI_MOB_ATTRIBUTES: §eAttributi dei mob
 GUI_MOB_ATTRIBUTES_LORE: §eClicca per modificare gli attributi correlati ai mob
 GUI_HEALTH: §eVita
@@ -165,8 +165,9 @@ GUI_ALL_BIOMES_ALLOWED_LORE: Se abilitata, il boss potrà spawnare in tutti i bi
 GUI_UNAVAILABLE: §cNon disponibile per questo mob.
 GUI_ISBABY: §eBambino
 GUI_PREVENTSPLIT: §eImpedisci divisione.
-GUI_PREVENTSUNBURN: §eImpedisci bruciature da sole.
+GUI_PREVENTSUNBURN: §eImpedisci di bruciare dal sole.
 GUI_PREVENTTELEPORT: §eImpedisci di teletrasportarsi.
+GUI_PREVENTEXPLOSION: §eImpedisci di esplodere
 GUI_GLOWING: §eLuccica (Richiede 1.9+)
 GUI_DISABLE_SOUNDS: §eDisabilita i suoni predefiniti (Richiede 1.10+)
 GUI_DISABLE_SOUNDS_LORE: Questa opzione ti permette di disabilitare i suoni predefiniti del mob.
