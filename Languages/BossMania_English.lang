@@ -181,7 +181,10 @@ GUI_PREVENTSPLIT: §ePreventSplit
 GUI_PREVENTSUNBURN: §ePreventSunBurn
 GUI_PREVENTTELEPORT: §ePreventTeleport
 GUI_PREVENTEXPLOSION: §ePreventExplosion
+GUI_PREVENTEXPLOSION_LORE: §ePrevent creepers from exploding
 GUI_GLOWING: §eGlowing
+GUI_SUPER_CHARGED: §eSuperCharged
+GUI_SUPER_CHARGED_LORE: §eSuper-Charge the creeper
 GUI_DISABLE_SOUNDS: §eDisable default sounds
 GUI_DISABLE_SOUNDS_LORE: This option allows you to disable default sounds of the mob.
 GUI_SOUNDS: Sounds
