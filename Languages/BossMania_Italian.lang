@@ -172,6 +172,8 @@ GUI_PREVENTEXPLOSION_LORE: §eImpedisci al creeper di esplodere.
 GUI_GLOWING: §eLuccica (Richiede 1.9+)
 GUI_SUPER_CHARGED: §eSuper caricato
 GUI_SUPER_CHARGED_LORE: §eSuper-Carica il creeper
+GUI_SIZE: Grandezza
+GUI_CLICK_TO_TYPE_SIZE: §eClicca per modificare la grandezza del mob.
 GUI_DISABLE_SOUNDS: §eDisabilita i suoni predefiniti (Richiede 1.10+)
 GUI_DISABLE_SOUNDS_LORE: Questa opzione ti permette di disabilitare i suoni predefiniti del mob.
 GUI_SOUNDS: Suoni
@@ -224,3 +226,4 @@ REMOVED_AUTOSPAWN: §aRimosso con successo l'autospawn §e%autospawn%
 PLUGIN_RELOADED: §aPlugin ricaricato con successo!
 REMOVED_BOSS: §aRimosso con successo il boss §e%boss%
 TRACKER_CREATED: §aHai creato una bussola per il boss§e%boss%, la bussola punterà sempre verso i boss di questo tipo.
+NO_BOSSES: §cNon ci sono %bosses% boss vivi.
