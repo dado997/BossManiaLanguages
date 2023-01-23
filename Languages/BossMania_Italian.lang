@@ -114,7 +114,8 @@ GUI_RIGHT_TO_TYPE_QUANTITY: §eClick destro per scrivere in chat la quantita'.
 GUI_LEFT_TO_TYPE_QUANTITY: §eClick sinistro per scrivere in chat la quantita'.
 GUI_ENCHANTMENTS: §cPremi Shift+Destro Premi/Shift+Sinistro per gestire gli incantamenti.
 GUI_CLICK_ENCHANTMENTS: §cPremi per gestire gli incantamenti.
-GUI_SETININVENTORY: §cSe l'opzione e' abilitata, il drop verra' direttamente aggiunto nell'inventario del killer del boss.
+GUI_SETININVENTORY: §cSe l'opzione e' abilitata, il drop verra' direttamente aggiunto nell'inventario del: §e
+GUI_SETININVENTORY_LORE: §aTasto destro per cambiare chi riceverà il drop
 GUI_ACTIONS: Premi per gestire le azioni eseguite.
 GUI_ATTRIBUTES: Attributi
 GUI_GENERIC_ATTRIBUTES: §eAttributi generici

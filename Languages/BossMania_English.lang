@@ -126,7 +126,8 @@ GUI_RIGHT_CLICK_TO_DEFAULT: §eRight click to set default value.
 GUI_LEFT_TO_TYPE_QUANTITY: §eLeft click to type in chat the quantity.
 GUI_CLICK_ENCHANTMENTS: §cClick to manage enchantments.
 GUI_RIGHT_CLICK_ENCHANTMENTS: §cRight click to manage enchantments.
-GUI_SETININVENTORY: §cIf this option is enabled, the drop will be directly added in the boss killer's inventory.
+GUI_SETININVENTORY: §cIf this option is enabled, the drop will be directly added in the inventory of the: §e
+GUI_SETININVENTORY_LORE: §aRight click to change who will receive the drop
 GUI_ATTRIBUTES: Attributes
 GUI_GENERIC_ATTRIBUTES: §eGeneric attributes
 GUI_GENERIC_ATTRIBUTES_LORE: §eClick to change the generic attributes
