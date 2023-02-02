@@ -16,6 +16,8 @@ GUI_BOSSES_LORE: Gestisci i boss
 GUI_AUTOSPAWNS_LORE: Gestisci gli autospawn
 GUI_AUTOSPAWN_TELEPORT: Tasto destro per teletrasportarti.
 GUI_AUTOSPAWN_SETLOC: Imposta la location degli autospawn
+GUI_RANGE: Raggio
+GUI_RANGE_LORE: §eSe il raggio è > di 0, il obss spawnerà nel un raggio attorno l'autospawn che imposti
 GUI_MAX_SPAWNABLE_BOSSES: Massimi boss spawnabili
 GUI_MAX_SPAWNABLE_BOSSES_LORE: §eImpostando questo limite, I boss potranno spawnare dall'autospawn
 GUI_MAX_SPAWNABLE_BOSSES_LORE2: §esolo se il numero dei boss spawnati sara' minore di questo limite.

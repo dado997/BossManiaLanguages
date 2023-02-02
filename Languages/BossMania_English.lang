@@ -16,6 +16,8 @@ GUI_BOSSES_LORE: Manage the bosses
 GUI_AUTOSPAWNS_LORE: Manage the autospawns
 GUI_AUTOSPAWN_TELEPORT: Right click to teleport.
 GUI_AUTOSPAWN_SETLOC: Set the location of the autospawn
+GUI_RANGE: Range
+GUI_RANGE_LORE: §eIf range its higher than 0, boss will spawn in a range around the autospawn you've set
 GUI_MAX_SPAWNABLE_BOSSES: MaxSpawnableBosses
 GUI_MAX_SPAWNABLE_BOSSES_LORE: §eBy setting this limit, bosses will only be able to spawn from autospawn
 GUI_MAX_SPAWNABLE_BOSSES_LORE2: §eonly if the number of bosses spawned will be less than this limit.
