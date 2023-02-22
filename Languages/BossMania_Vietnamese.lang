@@ -19,7 +19,7 @@ GUI_PRESSQ_TOTYPE_DAMAGE: §aNhấn Q để nhập số sát thương
 GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aChuột phải để nhập thời gian sinh quái (giây)
 GUI_EQUIPMENT: Trang bị
 GUI_EQUIPMENT_LORE: Quản lí trang bị của quái.
-GUI_DROPS: Rơi đồ 
+GUI_DROPS: Rơi đồ
 GUI_DROPS_LORE: Quản lí đồ rơi từ quái.
 GUI_SKILL: Kĩ năng
 GUI_SKILL_LORE: Quản lí kĩ năng.
@@ -76,3 +76,187 @@ INVALID_TARGET: §cMục tiêu không hợp lệ!
 SETTED_HEALTH: §aĐã chỉnh máu %health% cho quái %boss%
 REMOVED_AUTOSPAWN: §aĐã xóa nơi tự động sinh quái §e%autospawn%
 REMOVED_BOSS: §aĐã xóa quái §e%boss%
+GUI_REMOVE: Remove
+GUI_REMOVE_LORE: Remove the boss.
+GUI_COPY: Copy
+GUI_COPY_LORE: Create a copy of the boss.
+GUI_CONFIRM: Confirm
+GUI_CONFIRM_LORE: §7Click to confirm
+GUI_ABORT: Abort
+GUI_ABORT_LORE: §7Click to abort
+GUI_AUTOSPAWN_TELEPORT: Right click to teleport.
+GUI_AUTOSPAWN_SPAWNPOINTS: Manage the spawnPoints of the autoSpawn
+GUI_Press_Q_TO_REMOVESPAWN: §cPress Q to remove spawnpoint.
+GUI_RANGE: Range
+GUI_RANGE_LORE: §eIf range its higher than 0, boss will spawn in a range around the autospawn you've set
+GUI_MAX_SPAWNABLE_BOSSES: MaxSpawnableBosses
+GUI_MAX_SPAWNABLE_BOSSES_LORE: §eBy setting this limit, bosses will only be able to spawn from autospawn
+GUI_MAX_SPAWNABLE_BOSSES_LORE2: §eonly if the number of bosses spawned will be less than this limit.
+GUI_MAX_SPAWNABLE_BOSSES_LORE3: §eIf you don't want set this limit, set this at 0.
+GUI_SET_DISPLAYNAME: §aRight click to type in chat display name.
+GUI_HOLOGRAMPLUGIN_REQUIRED: §cTo display a name, you need to have HolographicDisplays!
+GUI_VAULT_REQUIRED: §cTo set money, you need to have Vault and an economy plugin!
+GUI_UNSET_DISPLAYNAME: §aPress Q to remove DisplayName.
+GUI_NAME: §eName
+GUI_NAME_LORE: §eChoose the name of the item.
+GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the boss name!
+GUI_INVALID_AUTOSPAWN_NAME: §cInvalid name! You can't use special characters in the autospawn name!
+GUI_CREATE_BOSS_LORE: Create a new boss.
+GUI_CLICK_TO_MANAGE: §aLeft click to manage boss
+GUI_MAX_DROPS: §eMaxDrops
+GUI_MAX_DROPS_LORE: Set the maximum drops that the boss can drop when he dies.
+GUI_DROPPEDMONEY: Dropped money
+GUI_AVAIBLE: §cAvaible only in custom skills.
+GUI_UNAVAIBLE: §cUnavaible
+GUI_COMMAND_DROPS: Manage the command drops. Command drops are commands executed when the boss die.
+GUI_COMMAND_REPLACE: §bThe word §e%killer% §bwill be replaced by the name of the boss killer.
+GUI_ALL: §bThe word §e%all% §bwill make command be executed to all players who hitted the boss.
+GUI_COMMAND_TOP_REPLACE: §bThe word §e%1thDamager% §bwill be replaced by the name of the top damager.
+GUI_COMMAND_SECOND_REPLACE: §bThe word §e%2thDamager% §bwill be replaced by the name of the second top damager.
+GUI_COMMAND_THIRD_REPLACE: §bThe word §e%3thDamager% §bwill be replaced by the name of the third top damager.
+GUI_COMMAND_TOP_DAMAGE_REPLACE: §bThe word §e%1thDamage% §bwill be replaced by the damage dealth by the top damager.
+GUI_COMMAND_SECOND_DAMAGE_REPLACE: §bThe word §e%2thDamage% §bwill be replaced by the damage dealth by the second top damager.
+GUI_COMMAND_THIRD_DAMAGE_REPLACE: §bThe word §e%3thDamage% §bwill be replaced by the damage dealth by the third top damager.
+GUI_SPAWN_CONDITIONS: SpawnConditions
+GUI_SPAWN_CONDITIONS_LORE: Manage the SpawnConditions of the boss.
+GUI_SPAWN_CONDITIONS_LORE2: If you add a spawn condition, the boss can spawn only if it respect the condition.
+GUI_SPAWN_CONDITIONS_LORE3: The /bm spawn command bypass the conditions.
+GUI_BOSSBAR_ENABLE: Left click to enable bossbar. (requires a server 1.13.2 or up)
+GUI_EXECUTEFORPLAYERS: Skill executed on players
+GUI_EXECUTEFORBOSS: Skill executed on boss
+GUI_BOSSBAR: Manage the BossBar of the boss.
+GUI_BOSSBAR_DISABLE: Left click to disable bossbar.
+GUI_LEVEL: Level
+GUI_CHANGE_BOSSBAR_COLOR: Click to change color.
+GUI_CHANGE_BOSSBAR_STYLE: Click to change style.
+GUI_DESPAWNAFTER_VALUE: §eDespawnAfter %value%
+GUI_MAX_BOSSES_FOR_CHUNK: MaxBossesForChunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE: Set how many bosses can spawn with randomSpawns in a chunk
+GUI_MAX_BOSSES_FOR_CHUNKLORE2: If you don't want to set a limit, type 0.
+GUI_MAX_BOSSES_FOR_WORLD: MaxBossesForWorld
+GUI_MAX_BOSSES_FOR_WORLDLORE: Set how many bosses can spawn with randomSpawns in a world
+GUI_LEFT_CLICK_TO_CHANGE: Left click to change.
+GUI_BOSS_ADD_LORE: Add a boss.
+GUI_CONDITION_ADD_LORE: Add a condition.
+GUI_LEFT_CLICK_TOTYPE_EXECUTEDWHEN: §aLeft click to change when the skill should be executed.
+GUI_RIGHT_CLICK_TOTYPE_TIMER: §aRight click to type the timer for the skill.
+GUI_ALWAYS_EXPLAINATION: §cthis trigger will make boss execute skill when it spawns, gets hit when dies. He won't do skill every second.
+GUI_TIMER: §aThe skill will be executed every §e%seconds% §aseconds
+GUI_LEFT_CLICK_TOTYPE_VOLUME: §aLeft click to type in chat volume.
+GUI_RIGHT_CLICK_TOTYPE_PITCH: §aRight click to type in chat pitch.
+GUI_Press_Q_TO_MANAGE: §aPress Q to manage skill.
+GUI_Press_Q_TO_REMOVESOUND: §cPress Q to remove sound.
+GUI_PRESS_SHIFT_TO_MOVE: §cPress Shift + left click / Shift + right click to move this left or right.
+GUI_Press_Q_TO_REMOVEBOSS: §cPress Q to remove boss.
+GUI_Press_Q_TO_REMOVEACTION: §cPress Q to remove action.
+GUI_RIGHT_TO_TYPE: Right click to type in chat the chance.
+GUI_GO_UPTOMAX: §eIf you want to set a value higher than %max%, modify the %value%
+GUI_GO_UPTOMAX2: §ein the spigot.yml file, and restart the server(not reload).
+GUI_LEFT_TO_TYPE_LEVEL: §eLeft click to type in chat the level.
+GUI_LEFT_TO_TYPE_ATTRIBUTE: §eLeft click to type in chat the attribute.
+GUI_RIGHT_CLICK_TO_DEFAULT: §eRight click to set default value.
+GUI_LEFT_TO_TYPE_QUANTITY: §eLeft click to type in chat the quantity.
+GUI_CLICK_ENCHANTMENTS: §cClick to manage enchantments.
+GUI_RIGHT_CLICK_ENCHANTMENTS: §cRight click to manage enchantments.
+GUI_SETININVENTORY: '§cIf this option is enabled, the drop will be directly added in the inventory of the: §e'
+GUI_SETININVENTORY_LORE: §aRight click to change who will receive the drop
+GUI_ATTRIBUTES: Attributes
+GUI_GENERIC_ATTRIBUTES: §eGeneric attributes
+GUI_GENERIC_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
+GUI_MOB_ATTRIBUTES: §eMob attributes
+GUI_MOB_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
+GUI_HEALTH: §eHealth
+GUI_DAMAGE: §eDamage
+GUI_MOVEMENT_SPEED: §eMovement speed
+GUI_FOLLOW_RANGE: §eFollow range
+GUI_KNOCKBACK_RESISTANCE: §eKnockback resistance
+GUI_IMMUNE_TO_FIRE: §eImmune to fire
+GUI_IMMUNE_TO_EXPLOSIONS: §eImmune to explosions
+GUI_IMMUNE_TO_PROJECTILES: §eImmune to projectiles
+GUI_IMMUNE_TO_SWEEP: §eImmune to sweep attacks
+GUI_IMMUNE_TO_MAGIC: §eImmune to magic attacks
+GUI_IMMUNE_TO_MAGIC_LORE: '§e(A magic attack could be: dragon breath, potions, or some attacks from abilities from rpg plugins)'
+GUI_MODELENGINE: §cModelEngine not installed
+GUI_DAY_CONDITION: If enabled, the boss can do this only when is day.
+GUI_NIGHT_CONDITION: If enabled, the boss can do this only when is night.
+GUI_NOT_IN_REGION: If enabled, the boss can do this only if its not in the selected region. (Requires WorldGuard)
+GUI_IN_REGION: If enabled, the boss can do this only if its in the selected region. (Requires WorldGuard)
+GUI_RAIN_CONDITION: If enabled, the boss can do this only when is raining.
+GUI_THUNDER_CONDITION: If enabled, the boss can do this only when is thundering.
+GUI_DAMAGE_FROM_PROJECTILE_CONDITION: If enabled, the boss can do this only if his last received damage was from an arrow.
+GUI_MELEE_DAMAGE_CONDITION: If enabled, the boss can do this only if his last received damage was melee.
+GUI_AI_TYPE: §eAi type
+GUI_ATTACKED_BY_MOBS: §eIsAttackedByMobs
+GUI_ATTACKED_BY_MOBS_LORE: If enabled, the boss will be attacked by mobs IF he harms them, like vanilla mobs do.
+GUI_AGGESSIVE: Aggressive
+GUI_AGGRESSIVE_LORE: §eThe boss will attack other players.
+GUI_NEUTRAL: Neutral
+GUI_NEUTRAL_LORE: §eThe boss will attack other players only if they attack him.
+GUI_PACIFIC: Pacific
+GUI_PACIFIC_LORE: §eThe boss will not attack players.
+GUI_DEFAULT: Default
+GUI_DEFAULT_LORE: §eThe ai of the boss will be the default of his mob type.
+GUI_DEATHMESSAGE: DeathMessage
+GUI_DEATHMESSAGE_LORE: Message send to players when boss dies enabled §e
+GUI_PASSENGER: §bPassenger
+GUI_PASSENGER_LORE: §aLeft click to set what mob should ride the boss when it spawns.
+GUI_PASSENGER_LORE2: §cRight click to remove the passenger.
+GUI_MOBTYPE: '§aMobType: §e%mobType%'
+GUI_MOBTYPE_LORE: §aClick to modify the mob type of the boss.
+GUI_RANDOMSPAWN: RandomSpawn
+GUI_RANDOMSPAWN_LORE: Manage the automatic spawn of the boss around the world.
+GUI_CHANCE: Set the chance with which the boss can spawn in the world.
+GUI_ALLOWED_WORLD: Allowed worlds
+GUI_ALLOWED_WORLD_LORE: Set the worlds with which the boss is allowed to spawn.
+GUI_ALLOWED_BIOMES: Allowed biomes
+GUI_ALLOWED_BIOMES_LORE: Set the biomes with which the boss is allowed to spawn in the worlds.
+GUI_ALL_BIOMES_ALLOWED: AllBiomesAllowed
+GUI_ALL_BIOMES_ALLOWED_LORE: If this option is enabled, the boss will be allowed to spawn in all biomes.
+GUI_UNAVAILABLE: §cUnavailable for this mob.
+GUI_ISBABY: §eIsBaby
+GUI_PREVENTSPLIT: §ePreventSplit
+GUI_PREVENTSUNBURN: §ePreventSunBurn
+GUI_PREVENTTELEPORT: §ePreventTeleport
+GUI_PREVENTEXPLOSION: §ePreventExplosion
+GUI_PREVENTEXPLOSION_LORE: §ePrevent creepers from exploding
+GUI_GLOWING: §eGlowing
+GUI_SUPER_CHARGED: §eSuperCharged
+GUI_SIZE: Size
+GUI_CLICK_TO_TYPE_SIZE: §eClick to type size of the mob.
+GUI_SUPER_CHARGED_LORE: §eSuper-Charge the creeper
+GUI_DISABLE_SOUNDS: §eDisable default sounds
+GUI_DISABLE_SOUNDS_LORE: This option allows you to disable default sounds of the mob.
+GUI_SOUNDS: Sounds
+GUI_ONSPAWNSOUNDS: OnSpawnSounds
+GUI_ONDAMAGESOUNDS: OnDamageSounds
+GUI_ONEXECUTESKILLSOUNDS: OnExecuteSkillSounds
+GUI_ONDEATHSOUNDS: OnDeathSounds
+GUI_SOUNDS_LORE: Manage sounds made by the boss.
+GUI_SOUNDSONSPAWN: Manage sounds made by the boss when it spawns.
+GUI_SOUNDSONDEATH: Manage sounds made by the boss when it deaths.
+GUI_SOUNDSONDAMAGE: Manage sounds made by the boss when it receive damage.
+GUI_SOUNDSONEXECUTE: Manage sounds made by the boss when it executes a skill.
+GUI_CUSTOMATTACK: §eCustomAttack (Citizens plugin required)
+GUI_CUSTOMATTACKLORE: §7If enabled boss attacks will handled by the plugin, enable only when attack speed/range are modified
+GUI_MODELENGINE_LORE: §aRight click to change the animation of the model
+GUI_ATTACKRANGE: §eAttackRange
+GUI_ATTACKRANGE_LORE: §7AttackRange = §e%range% §7blocks
+GUI_ATTACKSPEED: §eAttackSpeed
+GUI_ATTACKSPEED_LORE: §7AttackSpeed = §e%speed% §7ticks(20 ticks = 1 second)
+GUI_REQUIRESCUSTOMATTACK: §7This option will be considered only if Custom attack is enabled
+GUI_MIGRATION: Import Data
+GUI_MIGRATION_LORE: §aFrom the plugin %plugin%
+GUI_MIGRATION_LORE2: Plugin won't convert bosses that already exist!
+SKILL_ALREADY_EXISTS: §cA skill with this name already exists!
+TRACKER_COMMAND_ERROR: §cThe bosses %bosses% don't exist
+SIZE_REQUIRED: §cTo create a boss with the mob type %mob%, you need to specify the size.
+SIZE_TOO_BIG: §cThe size cannot be more than 22!
+GIVEN_EGG: §aSuccessfully given the egg of the boss §e%boss%
+CANT_FIND_PLAYER: §cPlayer %player% can't be found.
+KILLED_ALL_BOSSES_OF: §aSuccessfully killed all the bosses of the type §e%type%.
+INVALID_COORDS: §cInvalid coordinates!
+CONSOLE_SPEC: §cConsole have to specify coordinates!
+SETTED_DAMAGE: §aSuccessfully imposted damage %damage% to the boss %boss%
+PLUGIN_RELOADED: §aPlugin reloaded successfully!
+TRACKER_CREATED: §aSuccessfully created a tracker for the bosses §e%bosses%, this compass will always point at this type of boss, (when they are alive in the same world as the player)
+NO_BOSSES: §cNo %bosses% alive bosses were found!

@@ -34,7 +34,7 @@ GUI_CREATE_AUTOSPAWN_LORE: Créez une nouvelle génération automatique.
 GUI_RIGHT_CLICK_TOTYPE_SPAWNRATE: §aFaites un clic droit pour taper dans le chat les secondes par apparition
 GUI_EQUIPMENT: Equipement
 GUI_EQUIPMENT_LORE: Gérer l'équipement du Boss.
-GUI_DROPS: Drops 
+GUI_DROPS: Drops
 GUI_DROPS_LORE: Manage the drops of the boss.
 GUI_DROPPEDMONEY: Argent perdu
 GUI_AVAIBLE: §cDisponible uniquement dans les compétences personnalisées.
@@ -196,3 +196,71 @@ SETTED_DAMAGE: §aDommages imposés avec succès %damage% pour le Boss %boss%
 REMOVED_AUTOSPAWN: §aL'autospawn a été supprimé avec succès §e%autospawn%
 PLUGIN_RELOADED: §aPlugin rechargé avec succès !
 REMOVED_BOSS: §aVous avez supprimé le boss avec succès §e%boss%
+GUI_AUTOSPAWN_SPAWNPOINTS: Manage the spawnPoints of the autoSpawn
+GUI_Press_Q_TO_REMOVESPAWN: §cPress Q to remove spawnpoint.
+GUI_RANGE: Range
+GUI_RANGE_LORE: §eIf range its higher than 0, boss will spawn in a range around the autospawn you've set
+GUI_NAME: §eName
+GUI_NAME_LORE: §eChoose the name of the item.
+GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the boss name!
+GUI_INVALID_AUTOSPAWN_NAME: §cInvalid name! You can't use special characters in the autospawn name!
+GUI_CREATE_BOSS_LORE: Create a new boss.
+GUI_CLICK_TO_MANAGE: §aLeft click to manage boss
+GUI_MAX_DROPS: §eMaxDrops
+GUI_MAX_DROPS_LORE: Set the maximum drops that the boss can drop when he dies.
+GUI_COMMAND_TOP_DAMAGE_REPLACE: §bThe word §e%1thDamage% §bwill be replaced by the damage dealth by the top damager.
+GUI_COMMAND_SECOND_DAMAGE_REPLACE: §bThe word §e%2thDamage% §bwill be replaced by the damage dealth by the second top damager.
+GUI_COMMAND_THIRD_DAMAGE_REPLACE: §bThe word §e%3thDamage% §bwill be replaced by the damage dealth by the third top damager.
+GUI_EXECUTEFORPLAYERS: Skill executed on players
+GUI_EXECUTEFORBOSS: Skill executed on boss
+GUI_BOSSBAR: Manage the BossBar of the boss.
+GUI_LEVEL: Level
+GUI_BOSS_ADD_LORE: Add a boss.
+GUI_CONDITION_ADD_LORE: Add a condition.
+GUI_LEFT_CLICK_TOTYPE_EXECUTEDWHEN: §aLeft click to change when the skill should be executed.
+GUI_RIGHT_CLICK_TOTYPE_TIMER: §aRight click to type the timer for the skill.
+GUI_ALWAYS_EXPLAINATION: §cthis trigger will make boss execute skill when it spawns, gets hit when dies. He won't do skill every second.
+GUI_TIMER: §aThe skill will be executed every §e%seconds% §aseconds
+GUI_Press_Q_TO_MANAGE: §aPress Q to manage skill.
+GUI_PRESS_SHIFT_TO_MOVE: §cPress Shift + left click / Shift + right click to move this left or right.
+GUI_Press_Q_TO_REMOVEACTION: §cPress Q to remove action.
+GUI_RIGHT_CLICK_ENCHANTMENTS: §cRight click to manage enchantments.
+GUI_SETININVENTORY_LORE: §aRight click to change who will receive the drop
+GUI_GENERIC_ATTRIBUTES: §eGeneric attributes
+GUI_GENERIC_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
+GUI_MOB_ATTRIBUTES: §eMob attributes
+GUI_MOB_ATTRIBUTES_LORE: §eClick to change the attributes related to the mob type
+GUI_IMMUNE_TO_MAGIC: §eImmune to magic attacks
+GUI_IMMUNE_TO_MAGIC_LORE: '§e(A magic attack could be: dragon breath, potions, or some attacks from abilities from rpg plugins)'
+GUI_MODELENGINE: §cModelEngine not installed
+GUI_NOT_IN_REGION: If enabled, the boss can do this only if its not in the selected region. (Requires WorldGuard)
+GUI_IN_REGION: If enabled, the boss can do this only if its in the selected region. (Requires WorldGuard)
+GUI_ATTACKED_BY_MOBS: §eIsAttackedByMobs
+GUI_ATTACKED_BY_MOBS_LORE: If enabled, the boss will be attacked by mobs IF he harms them, like vanilla mobs do.
+GUI_DEATHMESSAGE: DeathMessage
+GUI_DEATHMESSAGE_LORE: Message send to players when boss dies enabled §e
+GUI_PASSENGER: §bPassenger
+GUI_PASSENGER_LORE: §aLeft click to set what mob should ride the boss when it spawns.
+GUI_PASSENGER_LORE2: §cRight click to remove the passenger.
+GUI_MOBTYPE: '§aMobType: §e%mobType%'
+GUI_MOBTYPE_LORE: §aClick to modify the mob type of the boss.
+GUI_PREVENTEXPLOSION: §ePreventExplosion
+GUI_PREVENTEXPLOSION_LORE: §ePrevent creepers from exploding
+GUI_SUPER_CHARGED: §eSuperCharged
+GUI_SIZE: Size
+GUI_CLICK_TO_TYPE_SIZE: §eClick to type size of the mob.
+GUI_SUPER_CHARGED_LORE: §eSuper-Charge the creeper
+GUI_CUSTOMATTACK: §eCustomAttack (Citizens plugin required)
+GUI_CUSTOMATTACKLORE: §7If enabled boss attacks will handled by the plugin, enable only when attack speed/range are modified
+GUI_MODELENGINE_LORE: §aRight click to change the animation of the model
+GUI_ATTACKRANGE: §eAttackRange
+GUI_ATTACKRANGE_LORE: §7AttackRange = §e%range% §7blocks
+GUI_ATTACKSPEED: §eAttackSpeed
+GUI_ATTACKSPEED_LORE: §7AttackSpeed = §e%speed% §7ticks(20 ticks = 1 second)
+GUI_REQUIRESCUSTOMATTACK: §7This option will be considered only if Custom attack is enabled
+SKILL_ALREADY_EXISTS: §cA skill with this name already exists!
+TRACKER_COMMAND_ERROR: §cThe bosses %bosses% don't exist
+GIVEN_EGG: §aSuccessfully given the egg of the boss §e%boss%
+CANT_FIND_PLAYER: §cPlayer %player% can't be found.
+TRACKER_CREATED: §aSuccessfully created a tracker for the bosses §e%bosses%, this compass will always point at this type of boss, (when they are alive in the same world as the player)
+NO_BOSSES: §cNo %bosses% alive bosses were found!

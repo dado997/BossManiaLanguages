@@ -126,7 +126,7 @@ GUI_MOB_ATTRIBUTES: §eAttributi dei mob
 GUI_MOB_ATTRIBUTES_LORE: §eClicca per modificare gli attributi correlati ai mob
 GUI_HEALTH: §eVita
 GUI_DAMAGE: §eDanno
-GUI_MOVEMENT_SPEED: §eVelocita' di movimento 
+GUI_MOVEMENT_SPEED: §eVelocita' di movimento
 GUI_FOLLOW_RANGE: §eRaggio di inseguimento
 GUI_KNOCKBACK_RESISTANCE: §eResistenza al contraccolpo
 GUI_IMMUNE_TO_FIRE: §eImmune al fuoco
@@ -230,3 +230,37 @@ PLUGIN_RELOADED: §aPlugin ricaricato con successo!
 REMOVED_BOSS: §aRimosso con successo il boss §e%boss%
 TRACKER_CREATED: §aHai creato una bussola per il boss§e%boss%, la bussola punterà sempre verso i boss di questo tipo.
 NO_BOSSES: §cNon ci sono %bosses% boss vivi.
+GUI_AUTOSPAWN_SPAWNPOINTS: Manage the spawnPoints of the autoSpawn
+GUI_Press_Q_TO_REMOVESPAWN: §cPress Q to remove spawnpoint.
+GUI_NAME: §eName
+GUI_NAME_LORE: §eChoose the name of the item.
+GUI_INVALID_NAME: §cInvalid name! You can't use special characters in the boss name!
+GUI_INVALID_AUTOSPAWN_NAME: §cInvalid name! You can't use special characters in the autospawn name!
+GUI_CREATE_BOSS_LORE: Create a new boss.
+GUI_CLICK_TO_MANAGE: §aLeft click to manage boss
+GUI_LEVEL: Level
+GUI_BOSS_ADD_LORE: Add a boss.
+GUI_CONDITION_ADD_LORE: Add a condition.
+GUI_Press_Q_TO_MANAGE: §aPress Q to manage skill.
+GUI_PRESS_SHIFT_TO_MOVE: §cPress Shift + left click / Shift + right click to move this left or right.
+GUI_Press_Q_TO_REMOVEBOSS: §cPress Q to remove boss.
+GUI_Press_Q_TO_REMOVEACTION: §cPress Q to remove action.
+GUI_RIGHT_CLICK_ENCHANTMENTS: §cRight click to manage enchantments.
+GUI_IMMUNE_TO_MAGIC: §eImmune to magic attacks
+GUI_IMMUNE_TO_MAGIC_LORE: '§e(A magic attack could be: dragon breath, potions, or some attacks from abilities from rpg plugins)'
+GUI_MODELENGINE: §cModelEngine not installed
+GUI_PASSENGER: §bPassenger
+GUI_PASSENGER_LORE: §aLeft click to set what mob should ride the boss when it spawns.
+GUI_PASSENGER_LORE2: §cRight click to remove the passenger.
+GUI_MOBTYPE: '§aMobType: §e%mobType%'
+GUI_MOBTYPE_LORE: §aClick to modify the mob type of the boss.
+GUI_MODELENGINE_LORE: §aRight click to change the animation of the model
+GUI_ATTACKRANGE: §eAttackRange
+GUI_ATTACKRANGE_LORE: §7AttackRange = §e%range% §7blocks
+GUI_ATTACKSPEED: §eAttackSpeed
+GUI_ATTACKSPEED_LORE: §7AttackSpeed = §e%speed% §7ticks(20 ticks = 1 second)
+GUI_REQUIRESCUSTOMATTACK: §7This option will be considered only if Custom attack is enabled
+SKILL_ALREADY_EXISTS: §cA skill with this name already exists!
+TRACKER_COMMAND_ERROR: §cThe bosses %bosses% don't exist
+GIVEN_EGG: §aSuccessfully given the egg of the boss §e%boss%
+CANT_FIND_PLAYER: §cPlayer %player% can't be found.
