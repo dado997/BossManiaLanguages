@@ -252,7 +252,7 @@ GUI_MODELENGINE: §cModelEngine not installed
 GUI_PASSENGER: §bPassenger
 GUI_PASSENGER_LORE: §aLeft click to set what mob should ride the boss when it spawns.
 GUI_PASSENGER_LORE2: §cRight click to remove the passenger.
-GUI_MOBTYPE: '§aMobType: §e%mobType%'
+GUI_MOBTYPE: '§aMobType §e%mobType%'
 GUI_MOBTYPE_LORE: §aClick to modify the mob type of the boss.
 GUI_MODELENGINE_LORE: §aRight click to change the animation of the model
 GUI_ATTACKRANGE: §eAttackRange

@@ -169,7 +169,7 @@ GUI_DEATHMESSAGE_LORE: Message send to players when boss dies enabled §e
 GUI_PASSENGER: §bPassenger
 GUI_PASSENGER_LORE: §aLeft click to set what mob should ride the boss when it spawns.
 GUI_PASSENGER_LORE2: §cRight click to remove the passenger.
-GUI_MOBTYPE: '§aMobType: §e%mobType%'
+GUI_MOBTYPE: '§aMobType §e%mobType%'
 GUI_MOBTYPE_LORE: §aClick to modify the mob type of the boss.
 GUI_RANDOMSPAWN: RandomSpawn
 GUI_RANDOMSPAWN_LORE: Manage the automatic spawn of the boss around the world.
